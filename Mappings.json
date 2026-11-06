@@ -1,0 +1,4702 @@
+{
+  "AbstractClientPlayer": {
+    "obf": "craftrise.цϖ",
+    "internal": "craftrise/цϖ",
+    "desc": "Lcraftrise/цϖ;",
+    "fields": {
+      "playerInfo": {
+        "obf": "Ӎ",
+        "desc": "Lcraftrise/ʍӮ;",
+        "offset": 852,
+        "static": false
+      }
+    },
+    "methods": {
+      "getLocationSkin": {
+        "obf": "Ϝ",
+        "desc": "()Lcrsecond/ʟ;",
+        "static": false
+      }
+    }
+  },
+  "ActiveRenderInfo": {
+    "obf": "craftrise.ɉ",
+    "internal": "craftrise/ɉ",
+    "desc": "Lcraftrise/ɉ;",
+    "fields": {},
+    "methods": {}
+  },
+  "AxisAlignedBB": {
+    "obf": "craftrise.ʍΙ",
+    "internal": "craftrise/ʍΙ",
+    "desc": "Lcraftrise/ʍΙ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeDecorator": {
+    "obf": "craftrise.Ͽ",
+    "internal": "craftrise/Ͽ",
+    "desc": "Lcraftrise/Ͽ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenBase": {
+    "obf": "craftrise.цĀ",
+    "internal": "craftrise/цĀ",
+    "desc": "Lcraftrise/цĀ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenBase_Height": {
+    "obf": "craftrise.цĀ$ß",
+    "internal": "craftrise/цĀ$ß",
+    "desc": "Lcraftrise/цĀ$ß;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenBase_SpawnListEntry": {
+    "obf": "craftrise.цĀ$Ĩ",
+    "internal": "craftrise/цĀ$Ĩ",
+    "desc": "Lcraftrise/цĀ$Ĩ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenBase_TempCategory": {
+    "obf": "craftrise.цĀ$Ť",
+    "internal": "craftrise/цĀ$Ť",
+    "desc": "Lcraftrise/цĀ$Ť;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenBeach": {
+    "obf": "craftrise.цҿ",
+    "internal": "craftrise/цҿ",
+    "desc": "Lcraftrise/цҿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenDesert": {
+    "obf": "craftrise.цщ",
+    "internal": "craftrise/цщ",
+    "desc": "Lcraftrise/цщ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenEnd": {
+    "obf": "craftrise.цY",
+    "internal": "craftrise/цY",
+    "desc": "Lcraftrise/цY;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenForest": {
+    "obf": "craftrise.цҬ",
+    "internal": "craftrise/цҬ",
+    "desc": "Lcraftrise/цҬ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenHell": {
+    "obf": "craftrise.цҨ",
+    "internal": "craftrise/цҨ",
+    "desc": "Lcraftrise/цҨ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenHills": {
+    "obf": "craftrise.цԖ",
+    "internal": "craftrise/цԖ",
+    "desc": "Lcraftrise/цԖ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenJungle": {
+    "obf": "craftrise.цϞ",
+    "internal": "craftrise/цϞ",
+    "desc": "Lcraftrise/цϞ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenMesa": {
+    "obf": "craftrise.цϺ",
+    "internal": "craftrise/цϺ",
+    "desc": "Lcraftrise/цϺ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenMushroomIsland": {
+    "obf": "craftrise.цȫ",
+    "internal": "craftrise/цȫ",
+    "desc": "Lcraftrise/цȫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenMutated": {
+    "obf": "craftrise.цë",
+    "internal": "craftrise/цë",
+    "desc": "Lcraftrise/цë;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenOcean": {
+    "obf": "craftrise.цǇ",
+    "internal": "craftrise/цǇ",
+    "desc": "Lcraftrise/цǇ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenPlains": {
+    "obf": "craftrise.цŽ",
+    "internal": "craftrise/цŽ",
+    "desc": "Lcraftrise/цŽ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenRiver": {
+    "obf": "craftrise.цƢ",
+    "internal": "craftrise/цƢ",
+    "desc": "Lcraftrise/цƢ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenSavanna": {
+    "obf": "craftrise.цԓ",
+    "internal": "craftrise/цԓ",
+    "desc": "Lcraftrise/цԓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenSnow": {
+    "obf": "craftrise.цӒ",
+    "internal": "craftrise/цӒ",
+    "desc": "Lcraftrise/цӒ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenStoneBeach": {
+    "obf": "craftrise.цʗ",
+    "internal": "craftrise/цʗ",
+    "desc": "Lcraftrise/цʗ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenSwamp": {
+    "obf": "craftrise.цӽ",
+    "internal": "craftrise/цӽ",
+    "desc": "Lcraftrise/цӽ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BiomeGenTaiga": {
+    "obf": "craftrise.цҺ",
+    "internal": "craftrise/цҺ",
+    "desc": "Lcraftrise/цҺ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Block": {
+    "obf": "craftrise.ѫ",
+    "internal": "craftrise/ѫ",
+    "desc": "Lcraftrise/ѫ;",
+    "fields": {},
+    "methods": {
+      "getIdFromBlock": {
+        "obf": "Ң",
+        "desc": "(Lcraftrise/ѫ;)I",
+        "static": true
+      },
+      "getLocalizedName": {
+        "obf": "Ӹ",
+        "desc": "()Ljava/lang/String;",
+        "static": false
+      },
+      "getUnlocalizedName": {
+        "obf": "ԣ",
+        "desc": "()Ljava/lang/String;",
+        "static": false
+      }
+    }
+  },
+  "BlockAir": {
+    "obf": "craftrise.ռ",
+    "internal": "craftrise/ռ",
+    "desc": "Lcraftrise/ռ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockAnvil": {
+    "obf": "craftrise.C",
+    "internal": "craftrise/C",
+    "desc": "Lcraftrise/C;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBanner": {
+    "obf": "craftrise.ӽ",
+    "internal": "craftrise/ӽ",
+    "desc": "Lcraftrise/ӽ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBannerHanging": {
+    "obf": "craftrise.ӽ$ш",
+    "internal": "craftrise/ӽ$ш",
+    "desc": "Lcraftrise/ӽ$ш;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBannerStanding": {
+    "obf": "craftrise.ӽ$ʚ",
+    "internal": "craftrise/ӽ$ʚ",
+    "desc": "Lcraftrise/ӽ$ʚ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBarrier": {
+    "obf": "craftrise.Ӛ",
+    "internal": "craftrise/Ӛ",
+    "desc": "Lcraftrise/Ӛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBasePressurePlate": {
+    "obf": "craftrise.Ջ",
+    "internal": "craftrise/Ջ",
+    "desc": "Lcraftrise/Ջ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBeacon": {
+    "obf": "craftrise.ɐ",
+    "internal": "craftrise/ɐ",
+    "desc": "Lcraftrise/ɐ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBed": {
+    "obf": "craftrise.Ɛ",
+    "internal": "craftrise/Ɛ",
+    "desc": "Lcraftrise/Ɛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBone": {
+    "obf": "craftrise.ʍɩ",
+    "internal": "craftrise/ʍɩ",
+    "desc": "Lcraftrise/ʍɩ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBookshelf": {
+    "obf": "craftrise.ө",
+    "internal": "craftrise/ө",
+    "desc": "Lcraftrise/ө;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBreakable": {
+    "obf": "craftrise.ƺ",
+    "internal": "craftrise/ƺ",
+    "desc": "Lcraftrise/ƺ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBrewingStand": {
+    "obf": "craftrise.օ",
+    "internal": "craftrise/օ",
+    "desc": "Lcraftrise/օ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockBush": {
+    "obf": "craftrise.ј",
+    "internal": "craftrise/ј",
+    "desc": "Lcraftrise/ј;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockButton": {
+    "obf": "craftrise.Ǐ",
+    "internal": "craftrise/Ǐ",
+    "desc": "Lcraftrise/Ǐ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockCactus": {
+    "obf": "craftrise.Ũ",
+    "internal": "craftrise/Ũ",
+    "desc": "Lcraftrise/Ũ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockCake": {
+    "obf": "craftrise.ǳ",
+    "internal": "craftrise/ǳ",
+    "desc": "Lcraftrise/ǳ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockCarpet": {
+    "obf": "craftrise.ŗ",
+    "internal": "craftrise/ŗ",
+    "desc": "Lcraftrise/ŗ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockCarrot": {
+    "obf": "craftrise.ԉ",
+    "internal": "craftrise/ԉ",
+    "desc": "Lcraftrise/ԉ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockCauldron": {
+    "obf": "craftrise.μ",
+    "internal": "craftrise/μ",
+    "desc": "Lcraftrise/μ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockChest": {
+    "obf": "craftrise.Գ",
+    "internal": "craftrise/Գ",
+    "desc": "Lcraftrise/Գ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockClay": {
+    "obf": "craftrise.Ӓ",
+    "internal": "craftrise/Ӓ",
+    "desc": "Lcraftrise/Ӓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockCocoa": {
+    "obf": "craftrise.Ͱ",
+    "internal": "craftrise/Ͱ",
+    "desc": "Lcraftrise/Ͱ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockColored": {
+    "obf": "craftrise.ɲ",
+    "internal": "craftrise/ɲ",
+    "desc": "Lcraftrise/ɲ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockCommandBlock": {
+    "obf": "craftrise.З",
+    "internal": "craftrise/З",
+    "desc": "Lcraftrise/З;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockCompressedPowered": {
+    "obf": "craftrise.е",
+    "internal": "craftrise/е",
+    "desc": "Lcraftrise/е;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockConcretePowder": {
+    "obf": "craftrise.â",
+    "internal": "craftrise/â",
+    "desc": "Lcraftrise/â;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockContainer": {
+    "obf": "craftrise.ν",
+    "internal": "craftrise/ν",
+    "desc": "Lcraftrise/ν;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockCrops": {
+    "obf": "craftrise.ω",
+    "internal": "craftrise/ω",
+    "desc": "Lcraftrise/ω;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDaylightDetector": {
+    "obf": "craftrise.Ƿ",
+    "internal": "craftrise/Ƿ",
+    "desc": "Lcraftrise/Ƿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDeadBush": {
+    "obf": "craftrise.Ԑ",
+    "internal": "craftrise/Ԑ",
+    "desc": "Lcraftrise/Ԑ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDirectional": {
+    "obf": "craftrise.ԣ",
+    "internal": "craftrise/ԣ",
+    "desc": "Lcraftrise/ԣ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDirt": {
+    "obf": "craftrise.ͼ",
+    "internal": "craftrise/ͼ",
+    "desc": "Lcraftrise/ͼ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDispenser": {
+    "obf": "craftrise.ˢ",
+    "internal": "craftrise/ˢ",
+    "desc": "Lcraftrise/ˢ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDoor": {
+    "obf": "craftrise.ԃ",
+    "internal": "craftrise/ԃ",
+    "desc": "Lcraftrise/ԃ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDoublePlant": {
+    "obf": "craftrise.ŀ",
+    "internal": "craftrise/ŀ",
+    "desc": "Lcraftrise/ŀ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDoubleStoneSlab": {
+    "obf": "craftrise.ʍջ",
+    "internal": "craftrise/ʍջ",
+    "desc": "Lcraftrise/ʍջ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDoubleStoneSlabNew": {
+    "obf": "craftrise.ʍӥ",
+    "internal": "craftrise/ʍӥ",
+    "desc": "Lcraftrise/ʍӥ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDoubleWoodSlab": {
+    "obf": "craftrise.ʍǮ",
+    "internal": "craftrise/ʍǮ",
+    "desc": "Lcraftrise/ʍǮ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDragonEgg": {
+    "obf": "craftrise.h",
+    "internal": "craftrise/h",
+    "desc": "Lcraftrise/h;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDropper": {
+    "obf": "craftrise.Ő",
+    "internal": "craftrise/Ő",
+    "desc": "Lcraftrise/Ő;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockDynamicLiquid": {
+    "obf": "craftrise.ϒ",
+    "internal": "craftrise/ϒ",
+    "desc": "Lcraftrise/ϒ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockEnchantmentTable": {
+    "obf": "craftrise.ʱ",
+    "internal": "craftrise/ʱ",
+    "desc": "Lcraftrise/ʱ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockEndPortal": {
+    "obf": "craftrise.ɦ",
+    "internal": "craftrise/ɦ",
+    "desc": "Lcraftrise/ɦ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockEndPortalFrame": {
+    "obf": "craftrise.Ѐ",
+    "internal": "craftrise/Ѐ",
+    "desc": "Lcraftrise/Ѐ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockEndRod": {
+    "obf": "craftrise.û",
+    "internal": "craftrise/û",
+    "desc": "Lcraftrise/û;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockEnderChest": {
+    "obf": "craftrise.δ",
+    "internal": "craftrise/δ",
+    "desc": "Lcraftrise/δ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockFalling": {
+    "obf": "craftrise.ƌ",
+    "internal": "craftrise/ƌ",
+    "desc": "Lcraftrise/ƌ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockFarmland": {
+    "obf": "craftrise.ζ",
+    "internal": "craftrise/ζ",
+    "desc": "Lcraftrise/ζ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockFence": {
+    "obf": "craftrise.Ҫ",
+    "internal": "craftrise/Ҫ",
+    "desc": "Lcraftrise/Ҫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockFenceGate": {
+    "obf": "craftrise.Ĥ",
+    "internal": "craftrise/Ĥ",
+    "desc": "Lcraftrise/Ĥ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockFire": {
+    "obf": "craftrise.ɚ",
+    "internal": "craftrise/ɚ",
+    "desc": "Lcraftrise/ɚ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockFlower": {
+    "obf": "craftrise.ѥ",
+    "internal": "craftrise/ѥ",
+    "desc": "Lcraftrise/ѥ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockFlowerPot": {
+    "obf": "craftrise.ϰ",
+    "internal": "craftrise/ϰ",
+    "desc": "Lcraftrise/ϰ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockFlower_EnumFlowerType": {
+    "obf": "craftrise.ѥ$О",
+    "internal": "craftrise/ѥ$О",
+    "desc": "Lcraftrise/ѥ$О;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockFurnace": {
+    "obf": "craftrise.ƽ",
+    "internal": "craftrise/ƽ",
+    "desc": "Lcraftrise/ƽ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockGlass": {
+    "obf": "craftrise.ʓ",
+    "internal": "craftrise/ʓ",
+    "desc": "Lcraftrise/ʓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockGlazedTerracotta": {
+    "obf": "craftrise.ś",
+    "internal": "craftrise/ś",
+    "desc": "Lcraftrise/ś;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockGlowstone": {
+    "obf": "craftrise.ɜ",
+    "internal": "craftrise/ɜ",
+    "desc": "Lcraftrise/ɜ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockGrass": {
+    "obf": "craftrise.ԑ",
+    "internal": "craftrise/ԑ",
+    "desc": "Lcraftrise/ԑ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockGrassPath": {
+    "obf": "craftrise.Π",
+    "internal": "craftrise/Π",
+    "desc": "Lcraftrise/Π;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockGravel": {
+    "obf": "craftrise.Ճ",
+    "internal": "craftrise/Ճ",
+    "desc": "Lcraftrise/Ճ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockHalfStoneSlab": {
+    "obf": "craftrise.ʍϝ",
+    "internal": "craftrise/ʍϝ",
+    "desc": "Lcraftrise/ʍϝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockHalfStoneSlabNew": {
+    "obf": "craftrise.ʍȒ",
+    "internal": "craftrise/ʍȒ",
+    "desc": "Lcraftrise/ʍȒ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockHalfWoodSlab": {
+    "obf": "craftrise.ʍʆ",
+    "internal": "craftrise/ʍʆ",
+    "desc": "Lcraftrise/ʍʆ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockHardenedClay": {
+    "obf": "craftrise.χ",
+    "internal": "craftrise/χ",
+    "desc": "Lcraftrise/χ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockHay": {
+    "obf": "craftrise.ʍΘ",
+    "internal": "craftrise/ʍΘ",
+    "desc": "Lcraftrise/ʍΘ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockHopper": {
+    "obf": "craftrise.i",
+    "internal": "craftrise/i",
+    "desc": "Lcraftrise/i;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockHugeMushroom": {
+    "obf": "craftrise.ε",
+    "internal": "craftrise/ε",
+    "desc": "Lcraftrise/ε;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockIce": {
+    "obf": "craftrise.ճ",
+    "internal": "craftrise/ճ",
+    "desc": "Lcraftrise/ճ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockJukebox": {
+    "obf": "craftrise.θ",
+    "internal": "craftrise/θ",
+    "desc": "Lcraftrise/θ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockLadder": {
+    "obf": "craftrise.ņ",
+    "internal": "craftrise/ņ",
+    "desc": "Lcraftrise/ņ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockLeaves": {
+    "obf": "craftrise.Ў",
+    "internal": "craftrise/Ў",
+    "desc": "Lcraftrise/Ў;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockLever": {
+    "obf": "craftrise.ӄ",
+    "internal": "craftrise/ӄ",
+    "desc": "Lcraftrise/ӄ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockLilyPad": {
+    "obf": "craftrise.Ƹ",
+    "internal": "craftrise/Ƹ",
+    "desc": "Lcraftrise/Ƹ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockLiquid": {
+    "obf": "craftrise.È",
+    "internal": "craftrise/È",
+    "desc": "Lcraftrise/È;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockLog": {
+    "obf": "craftrise.ʍϼ",
+    "internal": "craftrise/ʍϼ",
+    "desc": "Lcraftrise/ʍϼ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockLog3": {
+    "obf": "craftrise.ʍϮ",
+    "internal": "craftrise/ʍϮ",
+    "desc": "Lcraftrise/ʍϮ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockMagma": {
+    "obf": "craftrise.ҿ",
+    "internal": "craftrise/ҿ",
+    "desc": "Lcraftrise/ҿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockMelon": {
+    "obf": "craftrise.ց",
+    "internal": "craftrise/ց",
+    "desc": "Lcraftrise/ց;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockMobSpawner": {
+    "obf": "craftrise.ʧ",
+    "internal": "craftrise/ʧ",
+    "desc": "Lcraftrise/ʧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockModelShapes": {
+    "obf": "craftrise.Ç",
+    "internal": "craftrise/Ç",
+    "desc": "Lcraftrise/Ç;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockMushroom": {
+    "obf": "craftrise.Ȫ",
+    "internal": "craftrise/Ȫ",
+    "desc": "Lcraftrise/Ȫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockMycelium": {
+    "obf": "craftrise.ƚ",
+    "internal": "craftrise/ƚ",
+    "desc": "Lcraftrise/ƚ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockNetherBrick": {
+    "obf": "craftrise.ԁ",
+    "internal": "craftrise/ԁ",
+    "desc": "Lcraftrise/ԁ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockNetherWart": {
+    "obf": "craftrise.t",
+    "internal": "craftrise/t",
+    "desc": "Lcraftrise/t;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockNetherrack": {
+    "obf": "craftrise.å",
+    "internal": "craftrise/å",
+    "desc": "Lcraftrise/å;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockNewLeaf": {
+    "obf": "craftrise.ģ",
+    "internal": "craftrise/ģ",
+    "desc": "Lcraftrise/ģ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockNewLog": {
+    "obf": "craftrise.ʍɫ",
+    "internal": "craftrise/ʍɫ",
+    "desc": "Lcraftrise/ʍɫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockNote": {
+    "obf": "craftrise.İ",
+    "internal": "craftrise/İ",
+    "desc": "Lcraftrise/İ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockObsidian": {
+    "obf": "craftrise.ʍӿ",
+    "internal": "craftrise/ʍӿ",
+    "desc": "Lcraftrise/ʍӿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockOldLeaf": {
+    "obf": "craftrise.К",
+    "internal": "craftrise/К",
+    "desc": "Lcraftrise/К;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockOldLog": {
+    "obf": "craftrise.ʍν",
+    "internal": "craftrise/ʍν",
+    "desc": "Lcraftrise/ʍν;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockOre": {
+    "obf": "craftrise.ʍԻ",
+    "internal": "craftrise/ʍԻ",
+    "desc": "Lcraftrise/ʍԻ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPackedIce": {
+    "obf": "craftrise.ʍĪ",
+    "internal": "craftrise/ʍĪ",
+    "desc": "Lcraftrise/ʍĪ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPane": {
+    "obf": "craftrise.ʍÝ",
+    "internal": "craftrise/ʍÝ",
+    "desc": "Lcraftrise/ʍÝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPistonBase": {
+    "obf": "craftrise.ʍΝ",
+    "internal": "craftrise/ʍΝ",
+    "desc": "Lcraftrise/ʍΝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPistonMoving": {
+    "obf": "craftrise.Қ",
+    "internal": "craftrise/Қ",
+    "desc": "Lcraftrise/Қ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPlanks": {
+    "obf": "craftrise.ʍΊ",
+    "internal": "craftrise/ʍΊ",
+    "desc": "Lcraftrise/ʍΊ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPortal": {
+    "obf": "craftrise.ǵ",
+    "internal": "craftrise/ǵ",
+    "desc": "Lcraftrise/ǵ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPos": {
+    "obf": "crsecond.ս",
+    "internal": "crsecond/ս",
+    "desc": "Lcrsecond/ս;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPotato": {
+    "obf": "craftrise.đ",
+    "internal": "craftrise/đ",
+    "desc": "Lcraftrise/đ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPressurePlate": {
+    "obf": "craftrise.E",
+    "internal": "craftrise/E",
+    "desc": "Lcraftrise/E;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPressurePlateWeighted": {
+    "obf": "craftrise.ӑ",
+    "internal": "craftrise/ӑ",
+    "desc": "Lcraftrise/ӑ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPrismarine": {
+    "obf": "craftrise.ʍş",
+    "internal": "craftrise/ʍş",
+    "desc": "Lcraftrise/ʍş;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPumpkin": {
+    "obf": "craftrise.ф",
+    "internal": "craftrise/ф",
+    "desc": "Lcraftrise/ф;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPurpurSlabDouble": {
+    "obf": "craftrise.ʍǗ$ը",
+    "internal": "craftrise/ʍǗ$ը",
+    "desc": "Lcraftrise/ʍǗ$ը;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockPurpurSlabHalf": {
+    "obf": "craftrise.ʍǗ$О",
+    "internal": "craftrise/ʍǗ$О",
+    "desc": "Lcraftrise/ʍǗ$О;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockQuartz": {
+    "obf": "craftrise.ʍЧ",
+    "internal": "craftrise/ʍЧ",
+    "desc": "Lcraftrise/ʍЧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRail": {
+    "obf": "craftrise.ʍϢ",
+    "internal": "craftrise/ʍϢ",
+    "desc": "Lcraftrise/ʍϢ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRailBase": {
+    "obf": "craftrise.ʍґ",
+    "internal": "craftrise/ʍґ",
+    "desc": "Lcraftrise/ʍґ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRailDetector": {
+    "obf": "craftrise.ʍҖ",
+    "internal": "craftrise/ʍҖ",
+    "desc": "Lcraftrise/ʍҖ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRailPowered": {
+    "obf": "craftrise.ʍҫ",
+    "internal": "craftrise/ʍҫ",
+    "desc": "Lcraftrise/ʍҫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRedFlower": {
+    "obf": "craftrise.ʠ",
+    "internal": "craftrise/ʠ",
+    "desc": "Lcraftrise/ʠ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRedSandstone": {
+    "obf": "craftrise.ʍÛ",
+    "internal": "craftrise/ʍÛ",
+    "desc": "Lcraftrise/ʍÛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRedstoneComparator": {
+    "obf": "craftrise.ӊ",
+    "internal": "craftrise/ӊ",
+    "desc": "Lcraftrise/ӊ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRedstoneDiode": {
+    "obf": "craftrise.Ů",
+    "internal": "craftrise/Ů",
+    "desc": "Lcraftrise/Ů;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRedstoneLamp": {
+    "obf": "craftrise.ʍɲ",
+    "internal": "craftrise/ʍɲ",
+    "desc": "Lcraftrise/ʍɲ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRedstoneOre": {
+    "obf": "craftrise.ʍŷ",
+    "internal": "craftrise/ʍŷ",
+    "desc": "Lcraftrise/ʍŷ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRedstoneRepeater": {
+    "obf": "craftrise.Ψ",
+    "internal": "craftrise/Ψ",
+    "desc": "Lcraftrise/Ψ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRedstoneTorch": {
+    "obf": "craftrise.ʍÇ",
+    "internal": "craftrise/ʍÇ",
+    "desc": "Lcraftrise/ʍÇ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRedstoneWire": {
+    "obf": "craftrise.ʍώ",
+    "internal": "craftrise/ʍώ",
+    "desc": "Lcraftrise/ʍώ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockReed": {
+    "obf": "craftrise.ʍĊ",
+    "internal": "craftrise/ʍĊ",
+    "desc": "Lcraftrise/ʍĊ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRendererDispatcher": {
+    "obf": "craftrise.цҩ",
+    "internal": "craftrise/цҩ",
+    "desc": "Lcraftrise/цҩ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockRotatedPillar": {
+    "obf": "craftrise.ʍÙ",
+    "internal": "craftrise/ʍÙ",
+    "desc": "Lcraftrise/ʍÙ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSand": {
+    "obf": "craftrise.ʒ",
+    "internal": "craftrise/ʒ",
+    "desc": "Lcraftrise/ʒ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSandStone": {
+    "obf": "craftrise.ʍϜ",
+    "internal": "craftrise/ʍϜ",
+    "desc": "Lcraftrise/ʍϜ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSapling": {
+    "obf": "craftrise.Ց",
+    "internal": "craftrise/Ց",
+    "desc": "Lcraftrise/Ց;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSeaLantern": {
+    "obf": "craftrise.ʍо",
+    "internal": "craftrise/ʍо",
+    "desc": "Lcraftrise/ʍо;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSign": {
+    "obf": "craftrise.N",
+    "internal": "craftrise/N",
+    "desc": "Lcraftrise/N;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSilverfish": {
+    "obf": "craftrise.ʍԧ",
+    "internal": "craftrise/ʍԧ",
+    "desc": "Lcraftrise/ʍԧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSkull": {
+    "obf": "craftrise.Ȋ",
+    "internal": "craftrise/Ȋ",
+    "desc": "Lcraftrise/Ȋ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSlab": {
+    "obf": "craftrise.ʍʵ",
+    "internal": "craftrise/ʍʵ",
+    "desc": "Lcraftrise/ʍʵ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSlime": {
+    "obf": "craftrise.Ã",
+    "internal": "craftrise/Ã",
+    "desc": "Lcraftrise/Ã;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSnow": {
+    "obf": "craftrise.ʍɶ",
+    "internal": "craftrise/ʍɶ",
+    "desc": "Lcraftrise/ʍɶ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSnowBlock": {
+    "obf": "craftrise.ʍŞ",
+    "internal": "craftrise/ʍŞ",
+    "desc": "Lcraftrise/ʍŞ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSoulSand": {
+    "obf": "craftrise.ʍɍ",
+    "internal": "craftrise/ʍɍ",
+    "desc": "Lcraftrise/ʍɍ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockSponge": {
+    "obf": "craftrise.ʍҪ",
+    "internal": "craftrise/ʍҪ",
+    "desc": "Lcraftrise/ʍҪ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStainedGlass": {
+    "obf": "craftrise.Ȧ",
+    "internal": "craftrise/Ȧ",
+    "desc": "Lcraftrise/Ȧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStainedGlassPane": {
+    "obf": "craftrise.ʍԞ",
+    "internal": "craftrise/ʍԞ",
+    "desc": "Lcraftrise/ʍԞ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStairs": {
+    "obf": "craftrise.ʍў",
+    "internal": "craftrise/ʍў",
+    "desc": "Lcraftrise/ʍў;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStandingSign": {
+    "obf": "craftrise.ϗ",
+    "internal": "craftrise/ϗ",
+    "desc": "Lcraftrise/ϗ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStaticLiquid": {
+    "obf": "craftrise.ϭ",
+    "internal": "craftrise/ϭ",
+    "desc": "Lcraftrise/ϭ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStem": {
+    "obf": "craftrise.Ǻ",
+    "internal": "craftrise/Ǻ",
+    "desc": "Lcraftrise/Ǻ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStone": {
+    "obf": "craftrise.ʍЙ",
+    "internal": "craftrise/ʍЙ",
+    "desc": "Lcraftrise/ʍЙ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStoneBrick": {
+    "obf": "craftrise.ʍƥ",
+    "internal": "craftrise/ʍƥ",
+    "desc": "Lcraftrise/ʍƥ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStoneButton": {
+    "obf": "craftrise.ƫ",
+    "internal": "craftrise/ƫ",
+    "desc": "Lcraftrise/ƫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStoneSlab": {
+    "obf": "craftrise.ʍε",
+    "internal": "craftrise/ʍε",
+    "desc": "Lcraftrise/ʍε;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockStoneSlabNew": {
+    "obf": "craftrise.ʍƇ",
+    "internal": "craftrise/ʍƇ",
+    "desc": "Lcraftrise/ʍƇ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockTNT": {
+    "obf": "craftrise.ʍç",
+    "internal": "craftrise/ʍç",
+    "desc": "Lcraftrise/ʍç;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockTallGrass": {
+    "obf": "craftrise.u",
+    "internal": "craftrise/u",
+    "desc": "Lcraftrise/u;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockTorch": {
+    "obf": "craftrise.ʍơ",
+    "internal": "craftrise/ʍơ",
+    "desc": "Lcraftrise/ʍơ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockTrapDoor": {
+    "obf": "craftrise.ʍӰ",
+    "internal": "craftrise/ʍӰ",
+    "desc": "Lcraftrise/ʍӰ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockTripWire": {
+    "obf": "craftrise.ʍƐ",
+    "internal": "craftrise/ʍƐ",
+    "desc": "Lcraftrise/ʍƐ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockTripWireHook": {
+    "obf": "craftrise.ʍј",
+    "internal": "craftrise/ʍј",
+    "desc": "Lcraftrise/ʍј;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockVine": {
+    "obf": "craftrise.ʍʑ",
+    "internal": "craftrise/ʍʑ",
+    "desc": "Lcraftrise/ʍʑ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockWall": {
+    "obf": "craftrise.ʍй",
+    "internal": "craftrise/ʍй",
+    "desc": "Lcraftrise/ʍй;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockWallSign": {
+    "obf": "craftrise.Ɨ",
+    "internal": "craftrise/Ɨ",
+    "desc": "Lcraftrise/Ɨ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockWeb": {
+    "obf": "craftrise.ʍƺ",
+    "internal": "craftrise/ʍƺ",
+    "desc": "Lcraftrise/ʍƺ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockWoodButton": {
+    "obf": "craftrise.ñ",
+    "internal": "craftrise/ñ",
+    "desc": "Lcraftrise/ñ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockWoodSlab": {
+    "obf": "craftrise.ʍʤ",
+    "internal": "craftrise/ʍʤ",
+    "desc": "Lcraftrise/ʍʤ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockWorkbench": {
+    "obf": "craftrise.ʍο",
+    "internal": "craftrise/ʍο",
+    "desc": "Lcraftrise/ʍο;",
+    "fields": {},
+    "methods": {}
+  },
+  "BlockYellowFlower": {
+    "obf": "craftrise.Ġ",
+    "internal": "craftrise/Ġ",
+    "desc": "Lcraftrise/Ġ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Blocks": {
+    "obf": "craftrise.ħ",
+    "internal": "craftrise/ħ",
+    "desc": "Lcraftrise/ħ;",
+    "fields": {},
+    "methods": {}
+  },
+  "BooleanContainer": {
+    "obf": "crsecond.şŝ",
+    "internal": "crsecond/şŝ",
+    "desc": "Lcrsecond/şŝ;",
+    "fields": {},
+    "methods": {
+      "getValue": {
+        "obf": "Ѩ",
+        "desc": "()Z",
+        "static": false
+      }
+    }
+  },
+  "C00Handshake": {
+    "obf": "crsecond.Ǥ",
+    "internal": "crsecond/Ǥ",
+    "desc": "Lcrsecond/Ǥ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C00PacketKeepAlive": {
+    "obf": "craftrise.ʁ",
+    "internal": "craftrise/ʁ",
+    "desc": "Lcraftrise/ʁ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C01PacketChatMessage": {
+    "obf": "craftrise.ϫ",
+    "internal": "craftrise/ϫ",
+    "desc": "Lcraftrise/ϫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C02PacketUseEntity": {
+    "obf": "craftrise.ʍÉ",
+    "internal": "craftrise/ʍÉ",
+    "desc": "Lcraftrise/ʍÉ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C02PacketUseEntityAction": {
+    "obf": "craftrise.ʍÉ$ո",
+    "internal": "craftrise/ʍÉ$ո",
+    "desc": "Lcraftrise/ʍÉ$ո;",
+    "fields": {},
+    "methods": {}
+  },
+  "C03PacketPlayer": {
+    "obf": "craftrise.à",
+    "internal": "craftrise/à",
+    "desc": "Lcraftrise/à;",
+    "fields": {},
+    "methods": {}
+  },
+  "C04PacketPlayerPosition": {
+    "obf": "craftrise.à$ϑ",
+    "internal": "craftrise/à$ϑ",
+    "desc": "Lcraftrise/à$ϑ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C05PacketPlayerLook": {
+    "obf": "craftrise.à$Ĵ",
+    "internal": "craftrise/à$Ĵ",
+    "desc": "Lcraftrise/à$Ĵ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C06PacketPlayerPosLook": {
+    "obf": "craftrise.à$İ",
+    "internal": "craftrise/à$İ",
+    "desc": "Lcraftrise/à$İ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C07PacketPlayerDigging": {
+    "obf": "craftrise.цǺ",
+    "internal": "craftrise/цǺ",
+    "desc": "Lcraftrise/цǺ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C07PacketPlayerDigging_Action": {
+    "obf": "craftrise.цǺ$ǝ",
+    "internal": "craftrise/цǺ$ǝ",
+    "desc": "Lcraftrise/цǺ$ǝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C08PacketPlayerBlockPlacement": {
+    "obf": "craftrise.լ",
+    "internal": "craftrise/լ",
+    "desc": "Lcraftrise/լ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C09PacketHeldItemChange": {
+    "obf": "craftrise.ơ",
+    "internal": "craftrise/ơ",
+    "desc": "Lcraftrise/ơ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C0APacketAnimation": {
+    "obf": "craftrise.Ϯ",
+    "internal": "craftrise/Ϯ",
+    "desc": "Lcraftrise/Ϯ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C0BPacketEntityAction": {
+    "obf": "craftrise.ʍȯ",
+    "internal": "craftrise/ʍȯ",
+    "desc": "Lcraftrise/ʍȯ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C0BPacketEntityAction_Action": {
+    "obf": "craftrise.ʍȯ$ƽ",
+    "internal": "craftrise/ʍȯ$ƽ",
+    "desc": "Lcraftrise/ʍȯ$ƽ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C0CPacketInput": {
+    "obf": "craftrise.Ѫ",
+    "internal": "craftrise/Ѫ",
+    "desc": "Lcraftrise/Ѫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C0DPacketCloseWindow": {
+    "obf": "craftrise.ʍկ",
+    "internal": "craftrise/ʍկ",
+    "desc": "Lcraftrise/ʍկ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C0EPacketClickWindow": {
+    "obf": "craftrise.цʞ",
+    "internal": "craftrise/цʞ",
+    "desc": "Lcraftrise/цʞ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C0FPacketConfirmTransaction": {
+    "obf": "craftrise.ѝ",
+    "internal": "craftrise/ѝ",
+    "desc": "Lcraftrise/ѝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C10PacketCreativeInventoryAction": {
+    "obf": "craftrise.ʍέ",
+    "internal": "craftrise/ʍέ",
+    "desc": "Lcraftrise/ʍέ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C11PacketEnchantItem": {
+    "obf": "craftrise.цÜ",
+    "internal": "craftrise/цÜ",
+    "desc": "Lcraftrise/цÜ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C12PacketUpdateSign": {
+    "obf": "craftrise.ʍձ",
+    "internal": "craftrise/ʍձ",
+    "desc": "Lcraftrise/ʍձ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C13PacketPlayerAbilities": {
+    "obf": "craftrise.ĵ",
+    "internal": "craftrise/ĵ",
+    "desc": "Lcraftrise/ĵ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C14PacketTabComplete": {
+    "obf": "craftrise.цĂ",
+    "internal": "craftrise/цĂ",
+    "desc": "Lcraftrise/цĂ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C15PacketClientSettings": {
+    "obf": "craftrise.ʍѱ",
+    "internal": "craftrise/ʍѱ",
+    "desc": "Lcraftrise/ʍѱ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C16PacketClientStatus": {
+    "obf": "craftrise.ʍţ",
+    "internal": "craftrise/ʍţ",
+    "desc": "Lcraftrise/ʍţ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C16PacketClientStatus_EnumState": {
+    "obf": "craftrise.ʍţ$Փ",
+    "internal": "craftrise/ʍţ$Փ",
+    "desc": "Lcraftrise/ʍţ$Փ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C17PacketCustomPayload": {
+    "obf": "craftrise.ˡ",
+    "internal": "craftrise/ˡ",
+    "desc": "Lcraftrise/ˡ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C18PacketSpectate": {
+    "obf": "craftrise.ʍʪ",
+    "internal": "craftrise/ʍʪ",
+    "desc": "Lcraftrise/ʍʪ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C19PacketResourcePackStatus": {
+    "obf": "craftrise.ʯ",
+    "internal": "craftrise/ʯ",
+    "desc": "Lcraftrise/ʯ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C20PacketRiseVerify": {
+    "obf": "crsecond.şĳ",
+    "internal": "crsecond/şĳ",
+    "desc": "Lcrsecond/şĳ;",
+    "fields": {},
+    "methods": {}
+  },
+  "C21PacketRiseVoice": {
+    "obf": "crsecond.ǰ",
+    "internal": "crsecond/ǰ",
+    "desc": "Lcrsecond/ǰ;",
+    "fields": {},
+    "methods": {}
+  },
+  "CRGameInfo": {
+    "obf": "crsecond.şԛ",
+    "internal": "crsecond/şԛ",
+    "desc": "Lcrsecond/şԛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ChatComponentStyle": {
+    "obf": "crsecond.şЈ",
+    "internal": "crsecond/şЈ",
+    "desc": "Lcrsecond/şЈ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ChatComponentText": {
+    "obf": "crsecond.şŶ",
+    "internal": "crsecond/şŶ",
+    "desc": "Lcrsecond/şŶ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ChatStyle": {
+    "obf": "crsecond.Ń",
+    "internal": "crsecond/Ń",
+    "desc": "Lcrsecond/Ń;",
+    "fields": {},
+    "methods": {}
+  },
+  "Chunk": {
+    "obf": "craftrise.ʍˡ",
+    "internal": "craftrise/ʍˡ",
+    "desc": "Lcraftrise/ʍˡ;",
+    "fields": {},
+    "methods": {
+      "getBlock": {
+        "obf": "Ȋ",
+        "desc": "(III)Lcraftrise/ѫ;",
+        "static": false
+      }
+    }
+  },
+  "ChunkPrimer": {
+    "obf": "craftrise.բ",
+    "internal": "craftrise/բ",
+    "desc": "Lcraftrise/բ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ClientUtils": {
+    "obf": "crsecond.Ɇ",
+    "internal": "crsecond/Ɇ",
+    "desc": "Lcrsecond/Ɇ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Config": {
+    "obf": "crsecond.şθ",
+    "internal": "crsecond/şθ",
+    "desc": "Lcrsecond/şθ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Container": {
+    "obf": "craftrise.Ѥ",
+    "internal": "craftrise/Ѥ",
+    "desc": "Lcraftrise/Ѥ;",
+    "fields": {
+      "inventorySlots": {
+        "obf": "ź",
+        "desc": "Ljava/util/List;",
+        "offset": 68,
+        "static": false
+      },
+      "windowId": {
+        "obf": "θ",
+        "desc": "I",
+        "offset": 24,
+        "static": false
+      }
+    },
+    "methods": {
+      "getSlot": {
+        "obf": "ž",
+        "desc": "(I)Lcraftrise/Ѵ;",
+        "static": false
+      }
+    }
+  },
+  "CpsTracker": {
+    "obf": "crsecond.şՏ",
+    "internal": "crsecond/şՏ",
+    "desc": "Lcrsecond/şՏ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EffectRenderer": {
+    "obf": "craftrise.ʍċ",
+    "internal": "craftrise/ʍċ",
+    "desc": "Lcraftrise/ʍċ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EnchantmentHelper": {
+    "obf": "craftrise.ʍƑ",
+    "internal": "craftrise/ʍƑ",
+    "desc": "Lcraftrise/ʍƑ;",
+    "fields": {},
+    "methods": {
+      "getEnchantmentLevel": {
+        "obf": "Қ",
+        "desc": "(ILcraftrise/ʍǾ;)I",
+        "static": false
+      }
+    }
+  },
+  "Entity": {
+    "obf": "craftrise.цӯ",
+    "internal": "craftrise/цӯ",
+    "desc": "Lcraftrise/цӯ;",
+    "fields": {
+      "entityId": {
+        "obf": "π",
+        "desc": "I",
+        "offset": 248,
+        "static": false
+      },
+      "fallDistance": {
+        "obf": "о",
+        "desc": "F",
+        "offset": 12,
+        "static": false
+      },
+      "lastTickPosX": {
+        "obf": "ԇ",
+        "desc": "D",
+        "offset": 40,
+        "static": false
+      },
+      "lastTickPosY": {
+        "obf": "ϰ",
+        "desc": "D",
+        "offset": 104,
+        "static": false
+      },
+      "lastTickPosZ": {
+        "obf": "ά",
+        "desc": "D",
+        "offset": 24,
+        "static": false
+      },
+      "motionX": {
+        "obf": "Ԑ",
+        "desc": "Lcraftrise/цȒ;",
+        "offset": 336,
+        "static": false
+      },
+      "motionY": {
+        "obf": "ҕ",
+        "desc": "Lcraftrise/цȒ;",
+        "offset": 376,
+        "static": false
+      },
+      "motionZ": {
+        "obf": "ʷ",
+        "desc": "Lcraftrise/цȒ;",
+        "offset": 288,
+        "static": false
+      },
+      "onGround": {
+        "obf": "É",
+        "desc": "Lcrsecond/şŝ;",
+        "offset": 356,
+        "static": false
+      },
+      "posX": {
+        "obf": "ӧ",
+        "desc": "D",
+        "offset": 72,
+        "static": false
+      },
+      "posY": {
+        "obf": "Ն",
+        "desc": "D",
+        "offset": 88,
+        "static": false
+      },
+      "posZ": {
+        "obf": "Г",
+        "desc": "D",
+        "offset": 48,
+        "static": false
+      },
+      "prevRotationPitch": {
+        "obf": "Ҫ",
+        "desc": "F",
+        "offset": 220,
+        "static": false
+      },
+      "prevRotationYaw": {
+        "obf": "Я",
+        "desc": "F",
+        "offset": 232,
+        "static": false
+      },
+      "rotationPitch": {
+        "obf": "Ԣ",
+        "desc": "F",
+        "offset": 208,
+        "static": false
+      },
+      "rotationYaw": {
+        "obf": "Е",
+        "desc": "F",
+        "offset": 112,
+        "static": false
+      },
+      "worldObj": {
+        "obf": "ȼ",
+        "desc": "Lcraftrise/цʝ;",
+        "offset": 312,
+        "static": false
+      }
+    },
+    "methods": {
+      "getDistanceToEntity": {
+        "obf": "է",
+        "desc": "(Lcraftrise/цӯ;)F",
+        "static": false
+      },
+      "getEyeHeight": {
+        "obf": "č",
+        "desc": "()F",
+        "static": false
+      },
+      "getFlag": {
+        "obf": "ĸ",
+        "desc": "(I)Z",
+        "static": false
+      },
+      "getName": {
+        "obf": "ĩ",
+        "desc": "()Ljava/lang/String;",
+        "static": false
+      },
+      "rayTrace": {
+        "obf": "Ӹ",
+        "desc": "(DF)Lcraftrise/ʍҙ;",
+        "static": false
+      },
+      "setPositionAndRotation": {
+        "obf": "ɓ",
+        "desc": "(DDDFF)V",
+        "static": false
+      },
+      "setPositionAndUpdate": {
+        "obf": "Ɋ",
+        "desc": "(DDD)V",
+        "static": false
+      }
+    }
+  },
+  "EntityArmorStand": {
+    "obf": "craftrise.ці",
+    "internal": "craftrise/ці",
+    "desc": "Lcraftrise/ці;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityArrow": {
+    "obf": "craftrise.цȐ",
+    "internal": "craftrise/цȐ",
+    "desc": "Lcraftrise/цȐ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityBat": {
+    "obf": "craftrise.цԥ",
+    "internal": "craftrise/цԥ",
+    "desc": "Lcraftrise/цԥ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityBlaze": {
+    "obf": "craftrise.цǹ",
+    "internal": "craftrise/цǹ",
+    "desc": "Lcraftrise/цǹ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityBoat": {
+    "obf": "craftrise.цͺ",
+    "internal": "craftrise/цͺ",
+    "desc": "Lcraftrise/цͺ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityCaveSpider": {
+    "obf": "craftrise.цӢ",
+    "internal": "craftrise/цӢ",
+    "desc": "Lcraftrise/цӢ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityChicken": {
+    "obf": "craftrise.цĽ",
+    "internal": "craftrise/цĽ",
+    "desc": "Lcraftrise/цĽ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityCow": {
+    "obf": "craftrise.цƝ",
+    "internal": "craftrise/цƝ",
+    "desc": "Lcraftrise/цƝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityCreeper": {
+    "obf": "craftrise.цЈ",
+    "internal": "craftrise/цЈ",
+    "desc": "Lcraftrise/цЈ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityDragon": {
+    "obf": "craftrise.цЕ",
+    "internal": "craftrise/цЕ",
+    "desc": "Lcraftrise/цЕ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityDragonPart": {
+    "obf": "craftrise.цæ",
+    "internal": "craftrise/цæ",
+    "desc": "Lcraftrise/цæ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityEgg": {
+    "obf": "craftrise.цӦ",
+    "internal": "craftrise/цӦ",
+    "desc": "Lcraftrise/цӦ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityEnderCrystal": {
+    "obf": "craftrise.цC",
+    "internal": "craftrise/цC",
+    "desc": "Lcraftrise/цC;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityEnderEye": {
+    "obf": "craftrise.цŵ",
+    "internal": "craftrise/цŵ",
+    "desc": "Lcraftrise/цŵ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityEnderPearl": {
+    "obf": "craftrise.цĲ",
+    "internal": "craftrise/цĲ",
+    "desc": "Lcraftrise/цĲ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityEnderman": {
+    "obf": "craftrise.цȧ",
+    "internal": "craftrise/цȧ",
+    "desc": "Lcraftrise/цȧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityEndermite": {
+    "obf": "craftrise.цɇ",
+    "internal": "craftrise/цɇ",
+    "desc": "Lcraftrise/цɇ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityExpBottle": {
+    "obf": "craftrise.цŦ",
+    "internal": "craftrise/цŦ",
+    "desc": "Lcraftrise/цŦ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityFallingBlock": {
+    "obf": "craftrise.цϪ",
+    "internal": "craftrise/цϪ",
+    "desc": "Lcraftrise/цϪ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityFireball": {
+    "obf": "craftrise.цը",
+    "internal": "craftrise/цը",
+    "desc": "Lcraftrise/цը;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityFireworkRocket": {
+    "obf": "craftrise.цX",
+    "internal": "craftrise/цX",
+    "desc": "Lcraftrise/цX;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityFishHook": {
+    "obf": "craftrise.цΗ",
+    "internal": "craftrise/цΗ",
+    "desc": "Lcraftrise/цΗ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityGhast": {
+    "obf": "craftrise.цē",
+    "internal": "craftrise/цē",
+    "desc": "Lcraftrise/цē;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityGiantZombie": {
+    "obf": "craftrise.цʅ",
+    "internal": "craftrise/цʅ",
+    "desc": "Lcraftrise/цʅ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityGuardian": {
+    "obf": "craftrise.цԇ",
+    "internal": "craftrise/цԇ",
+    "desc": "Lcraftrise/цԇ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityHorse": {
+    "obf": "craftrise.цЫ",
+    "internal": "craftrise/цЫ",
+    "desc": "Lcraftrise/цЫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityIronGolem": {
+    "obf": "craftrise.цШ",
+    "internal": "craftrise/цШ",
+    "desc": "Lcraftrise/цШ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityItem": {
+    "obf": "craftrise.цѺ",
+    "internal": "craftrise/цѺ",
+    "desc": "Lcraftrise/цѺ;",
+    "fields": {},
+    "methods": {
+      "getEntityItem": {
+        "obf": "Ҡ",
+        "desc": "()Lcraftrise/ʍǾ;",
+        "static": false
+      }
+    }
+  },
+  "EntityItemFrame": {
+    "obf": "craftrise.цG",
+    "internal": "craftrise/цG",
+    "desc": "Lcraftrise/цG;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityLargeFireball": {
+    "obf": "craftrise.цб",
+    "internal": "craftrise/цб",
+    "desc": "Lcraftrise/цб;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityLeashKnot": {
+    "obf": "craftrise.цƃ",
+    "internal": "craftrise/цƃ",
+    "desc": "Lcraftrise/цƃ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityList": {
+    "obf": "craftrise.պ",
+    "internal": "craftrise/պ",
+    "desc": "Lcraftrise/պ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityLiving": {
+    "obf": "craftrise.цѭ",
+    "internal": "craftrise/цѭ",
+    "desc": "Lcraftrise/цѭ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityLivingBase": {
+    "obf": "craftrise.цȢ",
+    "internal": "craftrise/цȢ",
+    "desc": "Lcraftrise/цȢ;",
+    "fields": {
+      "hurtTime": {
+        "obf": "ŏ",
+        "desc": "I",
+        "offset": 516,
+        "static": false
+      },
+      "renderYawOffset": {
+        "obf": "ʠ",
+        "desc": "F",
+        "offset": 488,
+        "static": false
+      },
+      "rotationYawHead": {
+        "obf": "ɾ",
+        "desc": "F",
+        "offset": 456,
+        "static": false
+      }
+    },
+    "methods": {
+      "getHealth": {
+        "obf": "Ќ",
+        "desc": "()F",
+        "static": false
+      },
+      "setSprinting": {
+        "obf": "ň",
+        "desc": "(Z)V",
+        "static": false
+      },
+      "swingItem": {
+        "obf": "ʢ",
+        "desc": "()V",
+        "static": false
+      }
+    }
+  },
+  "EntityMagmaCube": {
+    "obf": "craftrise.цΏ",
+    "internal": "craftrise/цΏ",
+    "desc": "Lcraftrise/цΏ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMinecartChest": {
+    "obf": "craftrise.цñ",
+    "internal": "craftrise/цñ",
+    "desc": "Lcraftrise/цñ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMinecartCommandBlock": {
+    "obf": "craftrise.цϱ",
+    "internal": "craftrise/цϱ",
+    "desc": "Lcraftrise/цϱ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMinecartEmpty": {
+    "obf": "craftrise.цΛ",
+    "internal": "craftrise/цΛ",
+    "desc": "Lcraftrise/цΛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMinecartFurnace": {
+    "obf": "craftrise.цŌ",
+    "internal": "craftrise/цŌ",
+    "desc": "Lcraftrise/цŌ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMinecartHopper": {
+    "obf": "craftrise.цҁ",
+    "internal": "craftrise/цҁ",
+    "desc": "Lcraftrise/цҁ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMinecartMobSpawner": {
+    "obf": "craftrise.цɨ",
+    "internal": "craftrise/цɨ",
+    "desc": "Lcraftrise/цɨ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMinecartTNT": {
+    "obf": "craftrise.цǞ",
+    "internal": "craftrise/цǞ",
+    "desc": "Lcraftrise/цǞ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMob": {
+    "obf": "craftrise.цͰ",
+    "internal": "craftrise/цͰ",
+    "desc": "Lcraftrise/цͰ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMonster": {
+    "obf": "craftrise.Ԟ",
+    "internal": "craftrise/Ԟ",
+    "desc": "Lcraftrise/Ԟ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityMooshroom": {
+    "obf": "craftrise.цɗ",
+    "internal": "craftrise/цɗ",
+    "desc": "Lcraftrise/цɗ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityOcelot": {
+    "obf": "craftrise.цĚ",
+    "internal": "craftrise/цĚ",
+    "desc": "Lcraftrise/цĚ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityOtherPlayerMP": {
+    "obf": "craftrise.цʮ",
+    "internal": "craftrise/цʮ",
+    "desc": "Lcraftrise/цʮ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityPainting": {
+    "obf": "craftrise.цљ",
+    "internal": "craftrise/цљ",
+    "desc": "Lcraftrise/цљ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityPig": {
+    "obf": "craftrise.цɑ",
+    "internal": "craftrise/цɑ",
+    "desc": "Lcraftrise/цɑ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityPigZombie": {
+    "obf": "craftrise.цƫ",
+    "internal": "craftrise/цƫ",
+    "desc": "Lcraftrise/цƫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityPlayer": {
+    "obf": "craftrise.цɋ",
+    "internal": "craftrise/цɋ",
+    "desc": "Lcraftrise/цɋ;",
+    "fields": {
+      "inventory": {
+        "obf": "и",
+        "desc": "Lcraftrise/ӧ;",
+        "offset": 816,
+        "static": false
+      },
+      "inventoryContainer": {
+        "obf": "Ӝ",
+        "desc": "Lcraftrise/Ѥ;",
+        "offset": 760,
+        "static": false
+      },
+      "openContainer": {
+        "obf": "Y",
+        "desc": "Lcraftrise/Ѥ;",
+        "offset": 764,
+        "static": false
+      }
+    },
+    "methods": {
+      "closeScreen": {
+        "obf": "ӳ",
+        "desc": "()V",
+        "static": false
+      },
+      "dropOneItem": {
+        "obf": "ǧ",
+        "desc": "(Z)Lcraftrise/цѺ;",
+        "static": false
+      },
+      "getHeldItem": {
+        "obf": "Ӆ",
+        "desc": "()Lcraftrise/ʍǾ;",
+        "static": false
+      }
+    }
+  },
+  "EntityPlayerSP": {
+    "obf": "craftrise.цЖ",
+    "internal": "craftrise/цЖ",
+    "desc": "Lcraftrise/цЖ;",
+    "fields": {
+      "sendQueue": {
+        "obf": "Ï",
+        "desc": "Lcraftrise/цɷ;",
+        "offset": 1044,
+        "static": false
+      }
+    },
+    "methods": {
+      "addChatMessage": {
+        "obf": "с",
+        "desc": "(Lcrsecond/Ԁ;)V",
+        "static": false
+      },
+      "sendChatMessage": {
+        "obf": "ɫ",
+        "desc": "(Ljava/lang/String;)V",
+        "static": false
+      }
+    }
+  },
+  "EntityPotion": {
+    "obf": "craftrise.цǭ",
+    "internal": "craftrise/цǭ",
+    "desc": "Lcraftrise/цǭ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityRabbit": {
+    "obf": "craftrise.цʏ",
+    "internal": "craftrise/цʏ",
+    "desc": "Lcraftrise/цʏ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityRenderer": {
+    "obf": "craftrise.ʍЁ",
+    "internal": "craftrise/ʍЁ",
+    "desc": "Lcraftrise/ʍЁ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntitySheep": {
+    "obf": "craftrise.цƓ",
+    "internal": "craftrise/цƓ",
+    "desc": "Lcraftrise/цƓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntitySilverfish": {
+    "obf": "craftrise.цӞ",
+    "internal": "craftrise/цӞ",
+    "desc": "Lcraftrise/цӞ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntitySkeleton": {
+    "obf": "craftrise.цų",
+    "internal": "craftrise/цų",
+    "desc": "Lcraftrise/цų;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntitySlime": {
+    "obf": "craftrise.цʠ",
+    "internal": "craftrise/цʠ",
+    "desc": "Lcraftrise/цʠ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntitySmallFireball": {
+    "obf": "craftrise.цԶ",
+    "internal": "craftrise/цԶ",
+    "desc": "Lcraftrise/цԶ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntitySnowball": {
+    "obf": "craftrise.цʓ",
+    "internal": "craftrise/цʓ",
+    "desc": "Lcraftrise/цʓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntitySnowman": {
+    "obf": "craftrise.цխ",
+    "internal": "craftrise/цխ",
+    "desc": "Lcraftrise/цխ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntitySpider": {
+    "obf": "craftrise.цӊ",
+    "internal": "craftrise/цӊ",
+    "desc": "Lcraftrise/цӊ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntitySquid": {
+    "obf": "craftrise.цե",
+    "internal": "craftrise/цե",
+    "desc": "Lcraftrise/цե;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityTNTPrimed": {
+    "obf": "craftrise.цś",
+    "internal": "craftrise/цś",
+    "desc": "Lcraftrise/цś;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityThrowable": {
+    "obf": "craftrise.цΤ",
+    "internal": "craftrise/цΤ",
+    "desc": "Lcraftrise/цΤ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityVillager": {
+    "obf": "craftrise.цȖ",
+    "internal": "craftrise/цȖ",
+    "desc": "Lcraftrise/цȖ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityWaterMob": {
+    "obf": "craftrise.цϋ",
+    "internal": "craftrise/цϋ",
+    "desc": "Lcraftrise/цϋ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityWitch": {
+    "obf": "craftrise.цɮ",
+    "internal": "craftrise/цɮ",
+    "desc": "Lcraftrise/цɮ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityWither": {
+    "obf": "craftrise.цĿ",
+    "internal": "craftrise/цĿ",
+    "desc": "Lcraftrise/цĿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityWitherSkull": {
+    "obf": "craftrise.цԛ",
+    "internal": "craftrise/цԛ",
+    "desc": "Lcraftrise/цԛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityWolf": {
+    "obf": "craftrise.цʛ",
+    "internal": "craftrise/цʛ",
+    "desc": "Lcraftrise/цʛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityXPOrb": {
+    "obf": "craftrise.цɌ",
+    "internal": "craftrise/цɌ",
+    "desc": "Lcraftrise/цɌ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EntityZombie": {
+    "obf": "craftrise.цɓ",
+    "internal": "craftrise/цɓ",
+    "desc": "Lcraftrise/цɓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EnumAction": {
+    "obf": "craftrise.į",
+    "internal": "craftrise/į",
+    "desc": "Lcraftrise/į;",
+    "fields": {},
+    "methods": {}
+  },
+  "EnumAxis": {
+    "obf": "craftrise.ɡ$Ҩ",
+    "internal": "craftrise/ɡ$Ҩ",
+    "desc": "Lcraftrise/ɡ$Ҩ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EnumAxisDirection": {
+    "obf": "craftrise.ɡ$ϛ",
+    "internal": "craftrise/ɡ$ϛ",
+    "desc": "Lcraftrise/ɡ$ϛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EnumConnectionState": {
+    "obf": "crsecond.Ҧ",
+    "internal": "crsecond/Ҧ",
+    "desc": "Lcrsecond/Ҧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EnumFacing": {
+    "obf": "craftrise.ɡ",
+    "internal": "craftrise/ɡ",
+    "desc": "Lcraftrise/ɡ;",
+    "fields": {},
+    "methods": {}
+  },
+  "EnumPacketDirection": {
+    "obf": "crsecond.şի",
+    "internal": "crsecond/şի",
+    "desc": "Lcrsecond/şի;",
+    "fields": {},
+    "methods": {}
+  },
+  "FloatContainer": {
+    "obf": "craftrise.ʍʀ",
+    "internal": "craftrise/ʍʀ",
+    "desc": "Lcraftrise/ʍʀ;",
+    "fields": {},
+    "methods": {
+      "getFloatValue": {
+        "obf": "ʥ",
+        "desc": "()F",
+        "static": false
+      }
+    }
+  },
+  "FontRenderer": {
+    "obf": "craftrise.цǡ",
+    "internal": "craftrise/цǡ",
+    "desc": "Lcraftrise/цǡ;",
+    "fields": {},
+    "methods": {
+      "drawString": {
+        "obf": "ē",
+        "desc": "(Ljava/lang/String;FFIZ)I",
+        "static": false
+      },
+      "getStringWidth": {
+        "obf": "Ҟ",
+        "desc": "(Ljava/lang/String;)I",
+        "static": false
+      }
+    }
+  },
+  "FoodStats": {
+    "obf": "craftrise.ʍĨ",
+    "internal": "craftrise/ʍĨ",
+    "desc": "Lcraftrise/ʍĨ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Framebuffer": {
+    "obf": "craftrise.ʍs",
+    "internal": "craftrise/ʍs",
+    "desc": "Lcraftrise/ʍs;",
+    "fields": {},
+    "methods": {}
+  },
+  "GameProfile": {
+    "obf": "crsecond.Ԟ",
+    "internal": "crsecond/Ԟ",
+    "desc": "Lcrsecond/Ԟ;",
+    "fields": {},
+    "methods": {
+      "getName": {
+        "obf": "Υ",
+        "desc": "()Ljava/lang/String;",
+        "static": false
+      },
+      "getUUID": {
+        "obf": "Ӟ",
+        "desc": "()Ljava/util/UUID;",
+        "static": false
+      }
+    }
+  },
+  "GameSettings": {
+    "obf": "craftrise.цœ",
+    "internal": "craftrise/цœ",
+    "desc": "Lcraftrise/цœ;",
+    "fields": {
+      "keyBindBack": {
+        "obf": "Ė",
+        "desc": "Lcraftrise/ʍտ;",
+        "offset": 392,
+        "static": false
+      },
+      "keyBindForward": {
+        "obf": "Ӳ",
+        "desc": "Lcraftrise/ʍտ;",
+        "offset": 312,
+        "static": false
+      },
+      "keyBindJump": {
+        "obf": "ɷ",
+        "desc": "Lcraftrise/ʍտ;",
+        "offset": 376,
+        "static": false
+      },
+      "keyBindLeft": {
+        "obf": "Ε",
+        "desc": "Lcraftrise/ʍտ;",
+        "offset": 436,
+        "static": false
+      },
+      "keyBindRight": {
+        "obf": "ε",
+        "desc": "Lcraftrise/ʍտ;",
+        "offset": 300,
+        "static": false
+      },
+      "keyBindSneak": {
+        "obf": "R",
+        "desc": "Lcraftrise/ʍտ;",
+        "offset": 328,
+        "static": false
+      },
+      "keyBindSprint": {
+        "obf": "Ձ",
+        "desc": "Lcraftrise/ʍտ;",
+        "offset": 360,
+        "static": false
+      }
+    },
+    "methods": {}
+  },
+  "GameSettings$Options": {
+    "obf": "craftrise.цœ$о",
+    "internal": "craftrise/цœ$о",
+    "desc": "Lcraftrise/цœ$о;",
+    "fields": {},
+    "methods": {}
+  },
+  "GlStateManager": {
+    "obf": "craftrise.цơ",
+    "internal": "craftrise/цơ",
+    "desc": "Lcraftrise/цơ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Gui": {
+    "obf": "craftrise.ʍѡ",
+    "internal": "craftrise/ʍѡ",
+    "desc": "Lcraftrise/ʍѡ;",
+    "fields": {},
+    "methods": {}
+  },
+  "GuiChest": {
+    "obf": "crsecond.ա",
+    "internal": "crsecond/ա",
+    "desc": "Lcrsecond/ա;",
+    "fields": {},
+    "methods": {}
+  },
+  "GuiContainer": {
+    "obf": "craftrise.ʍѠ",
+    "internal": "craftrise/ʍѠ",
+    "desc": "Lcraftrise/ʍѠ;",
+    "fields": {},
+    "methods": {}
+  },
+  "GuiInGame": {
+    "obf": "craftrise.ʍԼ",
+    "internal": "craftrise/ʍԼ",
+    "desc": "Lcraftrise/ʍԼ;",
+    "fields": {},
+    "methods": {}
+  },
+  "GuiInventory": {
+    "obf": "craftrise.ʍӌ",
+    "internal": "craftrise/ʍӌ",
+    "desc": "Lcraftrise/ʍӌ;",
+    "fields": {},
+    "methods": {}
+  },
+  "GuiMultiplayer": {
+    "obf": "craftrise.ʍϫ",
+    "internal": "craftrise/ʍϫ",
+    "desc": "Lcraftrise/ʍϫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "GuiNewChat": {
+    "obf": "craftrise.ʍҿ",
+    "internal": "craftrise/ʍҿ",
+    "desc": "Lcraftrise/ʍҿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "GuiPlayerTabOverlay": {
+    "obf": "craftrise.ʍY",
+    "internal": "craftrise/ʍY",
+    "desc": "Lcraftrise/ʍY;",
+    "fields": {},
+    "methods": {}
+  },
+  "GuiScreen": {
+    "obf": "craftrise.ʍҬ",
+    "internal": "craftrise/ʍҬ",
+    "desc": "Lcraftrise/ʍҬ;",
+    "fields": {},
+    "methods": {}
+  },
+  "IBakedModel": {
+    "obf": "craftrise.ʍΒ",
+    "internal": "craftrise/ʍΒ",
+    "desc": "Lcraftrise/ʍΒ;",
+    "fields": {},
+    "methods": {}
+  },
+  "IBlockState": {
+    "obf": "craftrise.Β",
+    "internal": "craftrise/Β",
+    "desc": "Lcraftrise/Β;",
+    "fields": {},
+    "methods": {
+      "getBlock": {
+        "obf": "Ȕ",
+        "desc": "()Lcraftrise/ѫ;",
+        "static": false
+      }
+    }
+  },
+  "ICamera": {
+    "obf": "craftrise.ʍЂ",
+    "internal": "craftrise/ʍЂ",
+    "desc": "Lcraftrise/ʍЂ;",
+    "fields": {},
+    "methods": {}
+  },
+  "IChatComponent": {
+    "obf": "crsecond.Ԁ",
+    "internal": "crsecond/Ԁ",
+    "desc": "Lcrsecond/Ԁ;",
+    "fields": {},
+    "methods": {}
+  },
+  "IInventory": {
+    "obf": "craftrise.цΕ",
+    "internal": "craftrise/цΕ",
+    "desc": "Lcraftrise/цΕ;",
+    "fields": {},
+    "methods": {}
+  },
+  "INetHandlerPlayClient": {
+    "obf": "craftrise.Ɂ",
+    "internal": "craftrise/Ɂ",
+    "desc": "Lcraftrise/Ɂ;",
+    "fields": {},
+    "methods": {}
+  },
+  "INetHandlerPlayServer": {
+    "obf": "craftrise.цӲ",
+    "internal": "craftrise/цӲ",
+    "desc": "Lcraftrise/цӲ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ISaveHandler": {
+    "obf": "craftrise.цӘ",
+    "internal": "craftrise/цӘ",
+    "desc": "Lcraftrise/цӘ;",
+    "fields": {},
+    "methods": {}
+  },
+  "IntegerWrapper": {
+    "obf": "crsecond.şȄ",
+    "internal": "crsecond/şȄ",
+    "desc": "Lcrsecond/şȄ;",
+    "fields": {},
+    "methods": {}
+  },
+  "InventoryEffectRenderer": {
+    "obf": "craftrise.ʍʚ",
+    "internal": "craftrise/ʍʚ",
+    "desc": "Lcraftrise/ʍʚ;",
+    "fields": {},
+    "methods": {}
+  },
+  "InventoryPlayer": {
+    "obf": "craftrise.ӧ",
+    "internal": "craftrise/ӧ",
+    "desc": "Lcraftrise/ӧ;",
+    "fields": {
+      "armorInventory": {
+        "obf": "ʩ",
+        "desc": "[Lcraftrise/ʍǾ;",
+        "offset": 76,
+        "static": false
+      },
+      "currentItem": {
+        "obf": "Ӽ",
+        "desc": "I",
+        "offset": 40,
+        "static": false
+      },
+      "mainInventory": {
+        "obf": "Ȥ",
+        "desc": "[Lcraftrise/ʍǾ;",
+        "offset": 64,
+        "static": false
+      }
+    },
+    "methods": {}
+  },
+  "Item": {
+    "obf": "craftrise.Σ",
+    "internal": "craftrise/Σ",
+    "desc": "Lcraftrise/Σ;",
+    "fields": {},
+    "methods": {
+      "getUnlocalizedName": {
+        "obf": "ʴ",
+        "desc": "()Ljava/lang/String;",
+        "static": false
+      }
+    }
+  },
+  "ItemAppleGold": {
+    "obf": "craftrise.š",
+    "internal": "craftrise/š",
+    "desc": "Lcraftrise/š;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemArmor": {
+    "obf": "craftrise.ը",
+    "internal": "craftrise/ը",
+    "desc": "Lcraftrise/ը;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemArmorMaterial": {
+    "obf": "craftrise.ը$ȓ",
+    "internal": "craftrise/ը$ȓ",
+    "desc": "Lcraftrise/ը$ȓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemArmorStand": {
+    "obf": "craftrise.Ї",
+    "internal": "craftrise/Ї",
+    "desc": "Lcraftrise/Ї;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemAxe": {
+    "obf": "craftrise.ɠ",
+    "internal": "craftrise/ɠ",
+    "desc": "Lcraftrise/ɠ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemBanner": {
+    "obf": "craftrise.ԍ",
+    "internal": "craftrise/ԍ",
+    "desc": "Lcraftrise/ԍ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemBed": {
+    "obf": "craftrise.ɫ",
+    "internal": "craftrise/ɫ",
+    "desc": "Lcraftrise/ɫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemBlock": {
+    "obf": "craftrise.Ѿ",
+    "internal": "craftrise/Ѿ",
+    "desc": "Lcraftrise/Ѿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemBoat": {
+    "obf": "craftrise.ѵ",
+    "internal": "craftrise/ѵ",
+    "desc": "Lcraftrise/ѵ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemBook": {
+    "obf": "craftrise.չ",
+    "internal": "craftrise/չ",
+    "desc": "Lcraftrise/չ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemBow": {
+    "obf": "craftrise.ƞ",
+    "internal": "craftrise/ƞ",
+    "desc": "Lcraftrise/ƞ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemBucket": {
+    "obf": "craftrise.ʖ",
+    "internal": "craftrise/ʖ",
+    "desc": "Lcraftrise/ʖ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemBucketMilk": {
+    "obf": "craftrise.ȕ",
+    "internal": "craftrise/ȕ",
+    "desc": "Lcraftrise/ȕ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemCarrotOnAStick": {
+    "obf": "craftrise.с",
+    "internal": "craftrise/с",
+    "desc": "Lcraftrise/с;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemCloth": {
+    "obf": "craftrise.î",
+    "internal": "craftrise/î",
+    "desc": "Lcraftrise/î;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemCoal": {
+    "obf": "craftrise.Ҽ",
+    "internal": "craftrise/Ҽ",
+    "desc": "Lcraftrise/Ҽ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemColored": {
+    "obf": "craftrise.ϣ",
+    "internal": "craftrise/ϣ",
+    "desc": "Lcraftrise/ϣ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemDoor": {
+    "obf": "craftrise.Ȓ",
+    "internal": "craftrise/Ȓ",
+    "desc": "Lcraftrise/Ȓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemDoublePlant": {
+    "obf": "craftrise.ɮ",
+    "internal": "craftrise/ɮ",
+    "desc": "Lcraftrise/ɮ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemDye": {
+    "obf": "craftrise.z",
+    "internal": "craftrise/z",
+    "desc": "Lcraftrise/z;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemEgg": {
+    "obf": "craftrise.Ѷ",
+    "internal": "craftrise/Ѷ",
+    "desc": "Lcraftrise/Ѷ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemEmptyMap": {
+    "obf": "craftrise.Ρ",
+    "internal": "craftrise/Ρ",
+    "desc": "Lcraftrise/Ρ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemEnchantedBook": {
+    "obf": "craftrise.Ը",
+    "internal": "craftrise/Ը",
+    "desc": "Lcraftrise/Ը;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemEnderEye": {
+    "obf": "craftrise.p",
+    "internal": "craftrise/p",
+    "desc": "Lcraftrise/p;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemEnderPearl": {
+    "obf": "craftrise.Ǆ",
+    "internal": "craftrise/Ǆ",
+    "desc": "Lcraftrise/Ǆ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemExpBottle": {
+    "obf": "craftrise.Į",
+    "internal": "craftrise/Į",
+    "desc": "Lcraftrise/Į;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemFireball": {
+    "obf": "craftrise.ą",
+    "internal": "craftrise/ą",
+    "desc": "Lcraftrise/ą;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemFirework": {
+    "obf": "craftrise.ԅ",
+    "internal": "craftrise/ԅ",
+    "desc": "Lcraftrise/ԅ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemFireworkCharge": {
+    "obf": "craftrise.č",
+    "internal": "craftrise/č",
+    "desc": "Lcraftrise/č;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemFishFood": {
+    "obf": "craftrise.Ε",
+    "internal": "craftrise/Ε",
+    "desc": "Lcraftrise/Ε;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemFishingRod": {
+    "obf": "craftrise.Ͳ",
+    "internal": "craftrise/Ͳ",
+    "desc": "Lcraftrise/Ͳ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemFlintAndSteel": {
+    "obf": "craftrise.É",
+    "internal": "craftrise/É",
+    "desc": "Lcraftrise/É;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemFood": {
+    "obf": "craftrise.Ձ",
+    "internal": "craftrise/Ձ",
+    "desc": "Lcraftrise/Ձ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemGlassBottle": {
+    "obf": "craftrise.ʚ",
+    "internal": "craftrise/ʚ",
+    "desc": "Lcraftrise/ʚ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemHangingEntity": {
+    "obf": "craftrise.Ό",
+    "internal": "craftrise/Ό",
+    "desc": "Lcraftrise/Ό;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemHoe": {
+    "obf": "craftrise.Ҡ",
+    "internal": "craftrise/Ҡ",
+    "desc": "Lcraftrise/Ҡ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemLead": {
+    "obf": "craftrise.Ӈ",
+    "internal": "craftrise/Ӈ",
+    "desc": "Lcraftrise/Ӈ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemLeaves": {
+    "obf": "craftrise.Ǚ",
+    "internal": "craftrise/Ǚ",
+    "desc": "Lcraftrise/Ǚ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemLilyPad": {
+    "obf": "craftrise.Ï",
+    "internal": "craftrise/Ï",
+    "desc": "Lcraftrise/Ï;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemMagicMilk": {
+    "obf": "craftrise.ʜ",
+    "internal": "craftrise/ʜ",
+    "desc": "Lcraftrise/ʜ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemMap": {
+    "obf": "craftrise.Ң",
+    "internal": "craftrise/Ң",
+    "desc": "Lcraftrise/Ң;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemMapBase": {
+    "obf": "craftrise.Ӭ",
+    "internal": "craftrise/Ӭ",
+    "desc": "Lcraftrise/Ӭ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemMinecart": {
+    "obf": "craftrise.ʅ",
+    "internal": "craftrise/ʅ",
+    "desc": "Lcraftrise/ʅ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemMonsterPlacer": {
+    "obf": "craftrise.Ƌ",
+    "internal": "craftrise/Ƌ",
+    "desc": "Lcraftrise/Ƌ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemMultiTexture": {
+    "obf": "craftrise.ɣ",
+    "internal": "craftrise/ɣ",
+    "desc": "Lcraftrise/ɣ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemNameTag": {
+    "obf": "craftrise.ҵ",
+    "internal": "craftrise/ҵ",
+    "desc": "Lcraftrise/ҵ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemPickaxe": {
+    "obf": "craftrise.Ӱ",
+    "internal": "craftrise/Ӱ",
+    "desc": "Lcraftrise/Ӱ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemPiston": {
+    "obf": "craftrise.ɂ",
+    "internal": "craftrise/ɂ",
+    "desc": "Lcraftrise/ɂ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemPotion": {
+    "obf": "craftrise.Ǎ",
+    "internal": "craftrise/Ǎ",
+    "desc": "Lcraftrise/Ǎ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemRecord": {
+    "obf": "craftrise.ǜ",
+    "internal": "craftrise/ǜ",
+    "desc": "Lcraftrise/ǜ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemReed": {
+    "obf": "craftrise.Ƥ",
+    "internal": "craftrise/Ƥ",
+    "desc": "Lcraftrise/Ƥ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemRenderer": {
+    "obf": "craftrise.Ķ",
+    "internal": "craftrise/Ķ",
+    "desc": "Lcraftrise/Ķ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSaddle": {
+    "obf": "craftrise.ѓ",
+    "internal": "craftrise/ѓ",
+    "desc": "Lcraftrise/ѓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSeedFood": {
+    "obf": "craftrise.õ",
+    "internal": "craftrise/õ",
+    "desc": "Lcraftrise/õ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSeeds": {
+    "obf": "craftrise.ѧ",
+    "internal": "craftrise/ѧ",
+    "desc": "Lcraftrise/ѧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemShears": {
+    "obf": "craftrise.ŭ",
+    "internal": "craftrise/ŭ",
+    "desc": "Lcraftrise/ŭ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSign": {
+    "obf": "craftrise.ѻ",
+    "internal": "craftrise/ѻ",
+    "desc": "Lcraftrise/ѻ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSimpleFoiled": {
+    "obf": "craftrise.Ԃ",
+    "internal": "craftrise/Ԃ",
+    "desc": "Lcraftrise/Ԃ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSkull": {
+    "obf": "craftrise.ɝ",
+    "internal": "craftrise/ɝ",
+    "desc": "Lcraftrise/ɝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSlab": {
+    "obf": "craftrise.ǐ",
+    "internal": "craftrise/ǐ",
+    "desc": "Lcraftrise/ǐ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSnow": {
+    "obf": "craftrise.Խ",
+    "internal": "craftrise/Խ",
+    "desc": "Lcraftrise/Խ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSnowball": {
+    "obf": "craftrise.ɩ",
+    "internal": "craftrise/ɩ",
+    "desc": "Lcraftrise/ɩ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSoup": {
+    "obf": "craftrise.Ս",
+    "internal": "craftrise/Ս",
+    "desc": "Lcraftrise/Ս;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSpade": {
+    "obf": "craftrise.Ȇ",
+    "internal": "craftrise/Ȇ",
+    "desc": "Lcraftrise/Ȇ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemSponge": {
+    "obf": "crsecond.Ǎ",
+    "internal": "crsecond/Ǎ",
+    "desc": "Lcrsecond/Ǎ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemStack": {
+    "obf": "craftrise.ʍǾ",
+    "internal": "craftrise/ʍǾ",
+    "desc": "Lcraftrise/ʍǾ;",
+    "fields": {
+      "item": {
+        "obf": "į",
+        "desc": "Lcraftrise/Σ;",
+        "offset": 80,
+        "static": false
+      },
+      "itemDamage": {
+        "obf": "Ն",
+        "desc": "I",
+        "offset": 72,
+        "static": false
+      },
+      "stackSize": {
+        "obf": "ð",
+        "desc": "I",
+        "offset": 32,
+        "static": false
+      }
+    },
+    "methods": {
+      "getDisplayName": {
+        "obf": "Ӝ",
+        "desc": "()Ljava/lang/String;",
+        "static": false
+      },
+      "getMetadata": {
+        "obf": "ό",
+        "desc": "()I",
+        "static": false
+      }
+    }
+  },
+  "ItemSword": {
+    "obf": "craftrise.ȴ",
+    "internal": "craftrise/ȴ",
+    "desc": "Lcraftrise/ȴ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemTool": {
+    "obf": "craftrise.ǫ",
+    "internal": "craftrise/ǫ",
+    "desc": "Lcraftrise/ǫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemToolMaterial": {
+    "obf": "craftrise.Σ$գ",
+    "internal": "craftrise/Σ$գ",
+    "desc": "Lcraftrise/Σ$գ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemWritableBook": {
+    "obf": "craftrise.Ʌ",
+    "internal": "craftrise/Ʌ",
+    "desc": "Lcraftrise/Ʌ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ItemWrittenBook": {
+    "obf": "craftrise.ȿ",
+    "internal": "craftrise/ȿ",
+    "desc": "Lcraftrise/ȿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Items": {
+    "obf": "craftrise.Ϊ",
+    "internal": "craftrise/Ϊ",
+    "desc": "Lcraftrise/Ϊ;",
+    "fields": {},
+    "methods": {}
+  },
+  "KeyBinding": {
+    "obf": "craftrise.ʍտ",
+    "internal": "craftrise/ʍտ",
+    "desc": "Lcraftrise/ʍտ;",
+    "fields": {
+      "pressed": {
+        "obf": "ŀ",
+        "desc": "Z",
+        "offset": 48,
+        "static": false
+      }
+    },
+    "methods": {
+      "isKeyDown": {
+        "obf": "ʮ",
+        "desc": "()Z",
+        "static": false
+      },
+      "isPressed": {
+        "obf": "ӕ",
+        "desc": "()Z",
+        "static": false
+      },
+      "setKeyBindState": {
+        "obf": "ѭ",
+        "desc": "(Lcraftrise/ʍψ;IZ)V",
+        "static": true
+      }
+    }
+  },
+  "Minecraft": {
+    "obf": "craftrise.ʍψ",
+    "internal": "craftrise/ʍψ",
+    "desc": "Lcraftrise/ʍψ;",
+    "fields": {
+      "currentScreen": {
+        "obf": "ť",
+        "desc": "Lcraftrise/ʍҬ;",
+        "offset": 480,
+        "static": false
+      },
+      "gameSettings": {
+        "obf": "Q",
+        "desc": "Lcraftrise/цœ;",
+        "offset": 340,
+        "static": false
+      },
+      "ingameGUI": {
+        "obf": "Z",
+        "desc": "Lcraftrise/ʍԼ;",
+        "offset": 448,
+        "static": false
+      },
+      "leftClickCounter": {
+        "obf": "Ѓ",
+        "desc": "I",
+        "offset": 180,
+        "static": false
+      },
+      "objectMouseOver": {
+        "obf": "ӹ",
+        "desc": "Lcraftrise/ʍҙ;",
+        "offset": 492,
+        "static": false
+      },
+      "playerController": {
+        "obf": "л",
+        "desc": "Lcraftrise/Ɏ;",
+        "offset": 420,
+        "static": false
+      },
+      "renderManager": {
+        "obf": "Ϥ",
+        "desc": "Lcraftrise/ʍŬ;",
+        "offset": 292,
+        "static": false
+      },
+      "rightClickDelayTimer": {
+        "obf": "Ѓ",
+        "desc": "I",
+        "offset": 180,
+        "static": false
+      },
+      "theMinecraft": {
+        "obf": "А",
+        "desc": "Lcraftrise/ʍψ;",
+        "offset": 260,
+        "static": true
+      },
+      "theWorld": {
+        "obf": "ţ",
+        "desc": "Lcraftrise/цĘ;",
+        "offset": 436,
+        "static": false
+      }
+    },
+    "methods": {
+      "clickMouse": {
+        "obf": "δ",
+        "desc": "()V",
+        "static": false
+      },
+      "getFontRendererObj": {
+        "obf": "Ƴ",
+        "desc": "()Lcraftrise/цǡ;",
+        "static": false
+      },
+      "getNetHandler": {
+        "obf": "ȑ",
+        "desc": "()Lcraftrise/цɷ;",
+        "static": false
+      },
+      "getThePlayer": {
+        "obf": "Ĳ",
+        "desc": "()Lcraftrise/цЖ;",
+        "static": false
+      },
+      "rightClickMouse": {
+        "obf": "Ķ",
+        "desc": "(Z)V",
+        "static": false
+      }
+    }
+  },
+  "MotionContainer": {
+    "obf": "craftrise.цȒ",
+    "internal": "craftrise/цȒ",
+    "desc": "Lcraftrise/цȒ;",
+    "fields": {},
+    "methods": {
+      "get": {
+        "obf": "ԃ",
+        "desc": "()D",
+        "static": false
+      },
+      "set": {
+        "obf": "ɵ",
+        "desc": "(D)D",
+        "static": false
+      }
+    }
+  },
+  "MovingObjectPosition": {
+    "obf": "craftrise.ʍҙ",
+    "internal": "craftrise/ʍҙ",
+    "desc": "Lcraftrise/ʍҙ;",
+    "fields": {
+      "blockPos": {
+        "obf": "Ĥ",
+        "desc": "Lcrsecond/ս;",
+        "offset": 76,
+        "static": false
+      },
+      "entityHit": {
+        "obf": "և",
+        "desc": "Lcraftrise/цӯ;",
+        "offset": 92,
+        "static": false
+      },
+      "hitVec": {
+        "obf": "E",
+        "desc": "Lcraftrise/ʍō;",
+        "offset": 84,
+        "static": false
+      },
+      "sideHit": {
+        "obf": "ӂ",
+        "desc": "Lcraftrise/ɡ;",
+        "offset": 88,
+        "static": false
+      },
+      "typeOfHit": {
+        "obf": "ѣ",
+        "desc": "Lcraftrise/ʍҙ$ϧ;",
+        "offset": 80,
+        "static": false
+      }
+    },
+    "methods": {}
+  },
+  "MovingObjectType": {
+    "obf": "craftrise.ʍҙ$ϧ",
+    "internal": "craftrise/ʍҙ$ϧ",
+    "desc": "Lcraftrise/ʍҙ$ϧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "NBTBase": {
+    "obf": "craftrise.Ƃ",
+    "internal": "craftrise/Ƃ",
+    "desc": "Lcraftrise/Ƃ;",
+    "fields": {},
+    "methods": {}
+  },
+  "NBTTagCompound": {
+    "obf": "craftrise.ȣ",
+    "internal": "craftrise/ȣ",
+    "desc": "Lcraftrise/ȣ;",
+    "fields": {},
+    "methods": {}
+  },
+  "NBTTagList": {
+    "obf": "craftrise.ĉ",
+    "internal": "craftrise/ĉ",
+    "desc": "Lcraftrise/ĉ;",
+    "fields": {},
+    "methods": {}
+  },
+  "NetHandlerPlayClient": {
+    "obf": "craftrise.цɷ",
+    "internal": "craftrise/цɷ",
+    "desc": "Lcraftrise/цɷ;",
+    "fields": {
+      "networkManager": {
+        "obf": "ȯ",
+        "desc": "Lcrsecond/şʤ;",
+        "offset": 76,
+        "static": false
+      }
+    },
+    "methods": {
+      "sendPacket": {
+        "obf": "Ř",
+        "desc": "(Lcraftrise/Ȩ;)V",
+        "static": false
+      }
+    }
+  },
+  "NetworkManager": {
+    "obf": "crsecond.şʤ",
+    "internal": "crsecond/şʤ",
+    "desc": "Lcrsecond/şʤ;",
+    "fields": {
+      "channel": {
+        "obf": "Ɯ",
+        "desc": "Lio/netty/channel/Channel;",
+        "offset": 76,
+        "static": false
+      }
+    },
+    "methods": {}
+  },
+  "NetworkPlayerInfo": {
+    "obf": "craftrise.ʍӮ",
+    "internal": "craftrise/ʍӮ",
+    "desc": "Lcraftrise/ʍӮ;",
+    "fields": {
+      "responseTime": {
+        "obf": "մ",
+        "desc": "I",
+        "offset": 48,
+        "static": false
+      }
+    },
+    "methods": {
+      "getDisplayName": {
+        "obf": "Ǹ",
+        "desc": "()Lcrsecond/Ԁ;",
+        "static": false
+      },
+      "getGameProfile": {
+        "obf": "ʘ",
+        "desc": "()Lcrsecond/Ԟ;",
+        "static": false
+      },
+      "getLocationSkin": {
+        "obf": "ļ",
+        "desc": "()Lcrsecond/ʟ;",
+        "static": false
+      },
+      "getResponseTime": {
+        "obf": "ȃ",
+        "desc": "()I",
+        "static": false
+      }
+    }
+  },
+  "Packet": {
+    "obf": "craftrise.Ȩ",
+    "internal": "craftrise/Ȩ",
+    "desc": "Lcraftrise/Ȩ;",
+    "fields": {},
+    "methods": {}
+  },
+  "PacketBuffer": {
+    "obf": "crsecond.şΑ",
+    "internal": "crsecond/şΑ",
+    "desc": "Lcrsecond/şΑ;",
+    "fields": {},
+    "methods": {}
+  },
+  "PlayerControllerMP": {
+    "obf": "craftrise.Ɏ",
+    "internal": "craftrise/Ɏ",
+    "desc": "Lcraftrise/Ɏ;",
+    "fields": {
+      "blockHitDelay": {
+        "obf": "Ó",
+        "desc": "I",
+        "offset": 28,
+        "static": false
+      }
+    },
+    "methods": {
+      "syncCurrentPlayItem": {
+        "obf": "Զ",
+        "desc": "()V",
+        "static": false
+      },
+      "windowClick": {
+        "obf": "Ė",
+        "desc": "(IIIILcraftrise/цɋ;)Lcraftrise/ʍǾ;",
+        "static": false
+      }
+    }
+  },
+  "Potion": {
+    "obf": "craftrise.T",
+    "internal": "craftrise/T",
+    "desc": "Lcraftrise/T;",
+    "fields": {},
+    "methods": {}
+  },
+  "RenderGlobal": {
+    "obf": "craftrise.Ċ",
+    "internal": "craftrise/Ċ",
+    "desc": "Lcraftrise/Ċ;",
+    "fields": {},
+    "methods": {}
+  },
+  "RenderHelper": {
+    "obf": "craftrise.цÄ",
+    "internal": "craftrise/цÄ",
+    "desc": "Lcraftrise/цÄ;",
+    "fields": {},
+    "methods": {}
+  },
+  "RenderItem": {
+    "obf": "craftrise.ʶ",
+    "internal": "craftrise/ʶ",
+    "desc": "Lcraftrise/ʶ;",
+    "fields": {},
+    "methods": {}
+  },
+  "RenderManager": {
+    "obf": "craftrise.ʍŬ",
+    "internal": "craftrise/ʍŬ",
+    "desc": "Lcraftrise/ʍŬ;",
+    "fields": {
+      "playerViewX": {
+        "obf": "Ѓ",
+        "desc": "F",
+        "offset": 68,
+        "static": false
+      },
+      "playerViewY": {
+        "obf": "Ƒ",
+        "desc": "F",
+        "offset": 72,
+        "static": false
+      },
+      "renderPosX": {
+        "obf": "ψ",
+        "desc": "D",
+        "offset": 40,
+        "static": false
+      },
+      "renderPosY": {
+        "obf": "Ě",
+        "desc": "D",
+        "offset": 16,
+        "static": false
+      },
+      "renderPosZ": {
+        "obf": "ѡ",
+        "desc": "D",
+        "offset": 24,
+        "static": false
+      },
+      "viewerPosX": {
+        "obf": "Ђ",
+        "desc": "D",
+        "offset": 48,
+        "static": false
+      },
+      "viewerPosY": {
+        "obf": "ʢ",
+        "desc": "D",
+        "offset": 32,
+        "static": false
+      },
+      "viewerPosZ": {
+        "obf": "Խ",
+        "desc": "D",
+        "offset": 56,
+        "static": false
+      }
+    },
+    "methods": {}
+  },
+  "ResourceLocation": {
+    "obf": "crsecond.ʟ",
+    "internal": "crsecond/ʟ",
+    "desc": "Lcrsecond/ʟ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S00PacketKeepAlive": {
+    "obf": "craftrise.ʍù",
+    "internal": "craftrise/ʍù",
+    "desc": "Lcraftrise/ʍù;",
+    "fields": {},
+    "methods": {}
+  },
+  "S01PacketJoinGame": {
+    "obf": "craftrise.ʍŐ",
+    "internal": "craftrise/ʍŐ",
+    "desc": "Lcraftrise/ʍŐ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S02PacketChat": {
+    "obf": "craftrise.цҾ",
+    "internal": "craftrise/цҾ",
+    "desc": "Lcraftrise/цҾ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S03PacketTimeUpdate": {
+    "obf": "craftrise.Ο",
+    "internal": "craftrise/Ο",
+    "desc": "Lcraftrise/Ο;",
+    "fields": {},
+    "methods": {}
+  },
+  "S04PacketEntityEquipment": {
+    "obf": "craftrise.цǪ",
+    "internal": "craftrise/цǪ",
+    "desc": "Lcraftrise/цǪ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S05PacketSpawnPosition": {
+    "obf": "craftrise.ϕ",
+    "internal": "craftrise/ϕ",
+    "desc": "Lcraftrise/ϕ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S06PacketUpdateHealth": {
+    "obf": "craftrise.цƭ",
+    "internal": "craftrise/цƭ",
+    "desc": "Lcraftrise/цƭ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S07PacketRespawn": {
+    "obf": "craftrise.ì",
+    "internal": "craftrise/ì",
+    "desc": "Lcraftrise/ì;",
+    "fields": {},
+    "methods": {}
+  },
+  "S08PacketPlayerPosLook": {
+    "obf": "craftrise.í",
+    "internal": "craftrise/í",
+    "desc": "Lcraftrise/í;",
+    "fields": {},
+    "methods": {}
+  },
+  "S09PacketHeldItemChange": {
+    "obf": "craftrise.ʍȌ",
+    "internal": "craftrise/ʍȌ",
+    "desc": "Lcraftrise/ʍȌ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S0APacketUseBed": {
+    "obf": "craftrise.Т",
+    "internal": "craftrise/Т",
+    "desc": "Lcraftrise/Т;",
+    "fields": {},
+    "methods": {}
+  },
+  "S0BPacketAnimation": {
+    "obf": "craftrise.ԓ",
+    "internal": "craftrise/ԓ",
+    "desc": "Lcraftrise/ԓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S0CPacketSpawnPlayer": {
+    "obf": "craftrise.ʍǓ",
+    "internal": "craftrise/ʍǓ",
+    "desc": "Lcraftrise/ʍǓ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S0DPacketCollectItem": {
+    "obf": "craftrise.цў",
+    "internal": "craftrise/цў",
+    "desc": "Lcraftrise/цў;",
+    "fields": {},
+    "methods": {}
+  },
+  "S0EPacketSpawnObject": {
+    "obf": "craftrise.Ӟ",
+    "internal": "craftrise/Ӟ",
+    "desc": "Lcraftrise/Ӟ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S0FPacketSpawnMob": {
+    "obf": "craftrise.ƪ",
+    "internal": "craftrise/ƪ",
+    "desc": "Lcraftrise/ƪ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S10PacketSpawnPainting": {
+    "obf": "craftrise.ǉ",
+    "internal": "craftrise/ǉ",
+    "desc": "Lcraftrise/ǉ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S11PacketSpawnExperienceOrb": {
+    "obf": "craftrise.цͱ",
+    "internal": "craftrise/цͱ",
+    "desc": "Lcraftrise/цͱ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S12PacketEntityVelocity": {
+    "obf": "craftrise.цƅ",
+    "internal": "craftrise/цƅ",
+    "desc": "Lcraftrise/цƅ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S13PacketDestroyEntities": {
+    "obf": "craftrise.Ł",
+    "internal": "craftrise/Ł",
+    "desc": "Lcraftrise/Ł;",
+    "fields": {},
+    "methods": {}
+  },
+  "S14PacketEntity": {
+    "obf": "craftrise.µ",
+    "internal": "craftrise/µ",
+    "desc": "Lcraftrise/µ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S15PacketEntityRelMove": {
+    "obf": "craftrise.µ$ɿ",
+    "internal": "craftrise/µ$ɿ",
+    "desc": "Lcraftrise/µ$ɿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S16PacketEntityLook": {
+    "obf": "craftrise.µ$Į",
+    "internal": "craftrise/µ$Į",
+    "desc": "Lcraftrise/µ$Į;",
+    "fields": {},
+    "methods": {}
+  },
+  "S17PacketEntityLookMove": {
+    "obf": "craftrise.µ$ӗ",
+    "internal": "craftrise/µ$ӗ",
+    "desc": "Lcraftrise/µ$ӗ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S18PacketEntityTeleport": {
+    "obf": "craftrise.цͶ",
+    "internal": "craftrise/цͶ",
+    "desc": "Lcraftrise/цͶ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S19PacketEntityHeadLook": {
+    "obf": "craftrise.цց",
+    "internal": "craftrise/цց",
+    "desc": "Lcraftrise/цց;",
+    "fields": {},
+    "methods": {}
+  },
+  "S19PacketEntityStatus": {
+    "obf": "craftrise.ʍմ",
+    "internal": "craftrise/ʍմ",
+    "desc": "Lcraftrise/ʍմ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S1BPacketEntityAttach": {
+    "obf": "craftrise.цȍ",
+    "internal": "craftrise/цȍ",
+    "desc": "Lcraftrise/цȍ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S1CPacketEntityMetadata": {
+    "obf": "craftrise.цώ",
+    "internal": "craftrise/цώ",
+    "desc": "Lcraftrise/цώ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S1DPacketEntityEffect": {
+    "obf": "craftrise.ʍօ",
+    "internal": "craftrise/ʍօ",
+    "desc": "Lcraftrise/ʍօ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S1EPacketRemoveEntityEffect": {
+    "obf": "craftrise.ʟ",
+    "internal": "craftrise/ʟ",
+    "desc": "Lcraftrise/ʟ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S1FPacketSetExperience": {
+    "obf": "craftrise.цΩ",
+    "internal": "craftrise/цΩ",
+    "desc": "Lcraftrise/цΩ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S20PacketEntityProperties": {
+    "obf": "craftrise.цʜ",
+    "internal": "craftrise/цʜ",
+    "desc": "Lcraftrise/цʜ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S21PacketChunkData": {
+    "obf": "crsecond.α",
+    "internal": "crsecond/α",
+    "desc": "Lcrsecond/α;",
+    "fields": {},
+    "methods": {}
+  },
+  "S22PacketMultiBlockChange": {
+    "obf": "craftrise.ʍͷ",
+    "internal": "craftrise/ʍͷ",
+    "desc": "Lcraftrise/ʍͷ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S23PacketBlockChange": {
+    "obf": "craftrise.цȻ",
+    "internal": "craftrise/цȻ",
+    "desc": "Lcraftrise/цȻ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S24PacketBlockAction": {
+    "obf": "craftrise.цՁ",
+    "internal": "craftrise/цՁ",
+    "desc": "Lcraftrise/цՁ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S25PacketBlockBreakAnim": {
+    "obf": "craftrise.ʈ",
+    "internal": "craftrise/ʈ",
+    "desc": "Lcraftrise/ʈ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S26PacketMapChunkBulk": {
+    "obf": "crsecond.ȋ",
+    "internal": "crsecond/ȋ",
+    "desc": "Lcrsecond/ȋ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S27PacketExplosion": {
+    "obf": "craftrise.цŧ",
+    "internal": "craftrise/цŧ",
+    "desc": "Lcraftrise/цŧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S28PacketEffect": {
+    "obf": "craftrise.ϟ",
+    "internal": "craftrise/ϟ",
+    "desc": "Lcraftrise/ϟ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S29PacketSoundEffect": {
+    "obf": "craftrise.Ϧ",
+    "internal": "craftrise/Ϧ",
+    "desc": "Lcraftrise/Ϧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S2APacketParticles": {
+    "obf": "craftrise.цÅ",
+    "internal": "craftrise/цÅ",
+    "desc": "Lcraftrise/цÅ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S2BPacketChangeGameState": {
+    "obf": "craftrise.цȘ",
+    "internal": "craftrise/цȘ",
+    "desc": "Lcraftrise/цȘ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S2CPacketSpawnGlobalEntity": {
+    "obf": "craftrise.γ",
+    "internal": "craftrise/γ",
+    "desc": "Lcraftrise/γ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S2DPacketOpenWindow": {
+    "obf": "craftrise.ʍɨ",
+    "internal": "craftrise/ʍɨ",
+    "desc": "Lcraftrise/ʍɨ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S2EPacketCloseWindow": {
+    "obf": "craftrise.цʥ",
+    "internal": "craftrise/цʥ",
+    "desc": "Lcraftrise/цʥ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S2FPacketSetSlot": {
+    "obf": "craftrise.цÛ",
+    "internal": "craftrise/цÛ",
+    "desc": "Lcraftrise/цÛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S30PacketWindowItems": {
+    "obf": "craftrise.ʍÿ",
+    "internal": "craftrise/ʍÿ",
+    "desc": "Lcraftrise/ʍÿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S31PacketWindowProperty": {
+    "obf": "craftrise.цΆ",
+    "internal": "craftrise/цΆ",
+    "desc": "Lcraftrise/цΆ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S32PacketConfirmTransaction": {
+    "obf": "craftrise.ē",
+    "internal": "craftrise/ē",
+    "desc": "Lcraftrise/ē;",
+    "fields": {},
+    "methods": {}
+  },
+  "S33PacketUpdateSign": {
+    "obf": "craftrise.цՄ",
+    "internal": "craftrise/цՄ",
+    "desc": "Lcraftrise/цՄ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S34PacketMaps": {
+    "obf": "craftrise.цy",
+    "internal": "craftrise/цy",
+    "desc": "Lcraftrise/цy;",
+    "fields": {},
+    "methods": {}
+  },
+  "S35PacketUpdateTileEntity": {
+    "obf": "craftrise.Ŝ",
+    "internal": "craftrise/Ŝ",
+    "desc": "Lcraftrise/Ŝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S36PacketSignEditorOpen": {
+    "obf": "craftrise.Ͷ",
+    "internal": "craftrise/Ͷ",
+    "desc": "Lcraftrise/Ͷ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S37PacketStatistics": {
+    "obf": "craftrise.ʍņ",
+    "internal": "craftrise/ʍņ",
+    "desc": "Lcraftrise/ʍņ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S38PacketPlayerListItem": {
+    "obf": "craftrise.я",
+    "internal": "craftrise/я",
+    "desc": "Lcraftrise/я;",
+    "fields": {},
+    "methods": {}
+  },
+  "S39PacketPlayerAbilities": {
+    "obf": "craftrise.ʍǨ",
+    "internal": "craftrise/ʍǨ",
+    "desc": "Lcraftrise/ʍǨ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S3APacketTabComplete": {
+    "obf": "craftrise.ʍւ",
+    "internal": "craftrise/ʍւ",
+    "desc": "Lcraftrise/ʍւ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S3BPacketScoreboardObjective": {
+    "obf": "craftrise.ԛ",
+    "internal": "craftrise/ԛ",
+    "desc": "Lcraftrise/ԛ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S3CPacketUpdateScore": {
+    "obf": "craftrise.цʰ",
+    "internal": "craftrise/цʰ",
+    "desc": "Lcraftrise/цʰ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S3DPacketDisplayScoreboard": {
+    "obf": "craftrise.ʍʝ",
+    "internal": "craftrise/ʍʝ",
+    "desc": "Lcraftrise/ʍʝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S3EPacketTeams": {
+    "obf": "craftrise.цԝ",
+    "internal": "craftrise/цԝ",
+    "desc": "Lcraftrise/цԝ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S3FPacketCustomPayload": {
+    "obf": "craftrise.Ð",
+    "internal": "craftrise/Ð",
+    "desc": "Lcraftrise/Ð;",
+    "fields": {},
+    "methods": {}
+  },
+  "S40PacketDisconnect": {
+    "obf": "craftrise.цМ",
+    "internal": "craftrise/цМ",
+    "desc": "Lcraftrise/цМ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S41PacketServerDifficulty": {
+    "obf": "craftrise.ӫ",
+    "internal": "craftrise/ӫ",
+    "desc": "Lcraftrise/ӫ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S42PacketCombatEvent": {
+    "obf": "craftrise.U",
+    "internal": "craftrise/U",
+    "desc": "Lcraftrise/U;",
+    "fields": {},
+    "methods": {}
+  },
+  "S43PacketCamera": {
+    "obf": "craftrise.ʍi",
+    "internal": "craftrise/ʍi",
+    "desc": "Lcraftrise/ʍi;",
+    "fields": {},
+    "methods": {}
+  },
+  "S44PacketWorldBorder": {
+    "obf": "craftrise.ǧ",
+    "internal": "craftrise/ǧ",
+    "desc": "Lcraftrise/ǧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S45PacketTitle": {
+    "obf": "craftrise.Ъ",
+    "internal": "craftrise/Ъ",
+    "desc": "Lcraftrise/Ъ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S46PacketSetCompressionLevel": {
+    "obf": "craftrise.ԟ",
+    "internal": "craftrise/ԟ",
+    "desc": "Lcraftrise/ԟ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S47PacketPlayerListHeaderFooter": {
+    "obf": "craftrise.ȗ",
+    "internal": "craftrise/ȗ",
+    "desc": "Lcraftrise/ȗ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S48PacketResourcePackSend": {
+    "obf": "craftrise.Ҋ",
+    "internal": "craftrise/Ҋ",
+    "desc": "Lcraftrise/Ҋ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S49PacketUpdateEntityNBT": {
+    "obf": "craftrise.έ",
+    "internal": "craftrise/έ",
+    "desc": "Lcraftrise/έ;",
+    "fields": {},
+    "methods": {}
+  },
+  "S50PacketRiseKeepAlive": {
+    "obf": "crsecond.şƴ",
+    "internal": "crsecond/şƴ",
+    "desc": "Lcrsecond/şƴ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ScaledResolution": {
+    "obf": "craftrise.ʍӆ",
+    "internal": "craftrise/ʍӆ",
+    "desc": "Lcraftrise/ʍӆ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ScoreBoardUtil": {
+    "obf": "crsecond.ԗ",
+    "internal": "crsecond/ԗ",
+    "desc": "Lcrsecond/ԗ;",
+    "fields": {},
+    "methods": {}
+  },
+  "ShaderGroup": {
+    "obf": "craftrise.цӰ",
+    "internal": "craftrise/цӰ",
+    "desc": "Lcraftrise/цӰ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Shaders": {
+    "obf": "craftrise.цƍ",
+    "internal": "craftrise/цƍ",
+    "desc": "Lcraftrise/цƍ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Slot": {
+    "obf": "craftrise.Ѵ",
+    "internal": "craftrise/Ѵ",
+    "desc": "Lcraftrise/Ѵ;",
+    "fields": {},
+    "methods": {
+      "getStack": {
+        "obf": "ë",
+        "desc": "()Lcraftrise/ʍǾ;",
+        "static": false
+      }
+    }
+  },
+  "TextureManager": {
+    "obf": "craftrise.цϕ",
+    "internal": "craftrise/цϕ",
+    "desc": "Lcraftrise/цϕ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntity": {
+    "obf": "craftrise.Ȑ",
+    "internal": "craftrise/Ȑ",
+    "desc": "Lcraftrise/Ȑ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityBanner": {
+    "obf": "craftrise.ҧ",
+    "internal": "craftrise/ҧ",
+    "desc": "Lcraftrise/ҧ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityBeacon": {
+    "obf": "craftrise.н",
+    "internal": "craftrise/н",
+    "desc": "Lcraftrise/н;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityBed": {
+    "obf": "craftrise.f",
+    "internal": "craftrise/f",
+    "desc": "Lcraftrise/f;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityBrewingStand": {
+    "obf": "craftrise.ԋ",
+    "internal": "craftrise/ԋ",
+    "desc": "Lcraftrise/ԋ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityChest": {
+    "obf": "craftrise.ɨ",
+    "internal": "craftrise/ɨ",
+    "desc": "Lcraftrise/ɨ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityCommandBlock": {
+    "obf": "craftrise.Ț",
+    "internal": "craftrise/Ț",
+    "desc": "Lcraftrise/Ț;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityComparator": {
+    "obf": "craftrise.ž",
+    "internal": "craftrise/ž",
+    "desc": "Lcraftrise/ž;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityDaylightDetector": {
+    "obf": "craftrise.ú",
+    "internal": "craftrise/ú",
+    "desc": "Lcraftrise/ú;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityDispenser": {
+    "obf": "craftrise.Ա",
+    "internal": "craftrise/Ա",
+    "desc": "Lcraftrise/Ա;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityDropper": {
+    "obf": "craftrise.Ю",
+    "internal": "craftrise/Ю",
+    "desc": "Lcraftrise/Ю;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityEnchantmentTable": {
+    "obf": "craftrise.А",
+    "internal": "craftrise/А",
+    "desc": "Lcraftrise/А;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityEndPortal": {
+    "obf": "craftrise.ǔ",
+    "internal": "craftrise/ǔ",
+    "desc": "Lcraftrise/ǔ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityEnderChest": {
+    "obf": "craftrise.Ӳ",
+    "internal": "craftrise/Ӳ",
+    "desc": "Lcraftrise/Ӳ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityFlowerPot": {
+    "obf": "craftrise.ȭ",
+    "internal": "craftrise/ȭ",
+    "desc": "Lcraftrise/ȭ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityFurnace": {
+    "obf": "craftrise.җ",
+    "internal": "craftrise/җ",
+    "desc": "Lcraftrise/җ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityHopper": {
+    "obf": "craftrise.ə",
+    "internal": "craftrise/ə",
+    "desc": "Lcraftrise/ə;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityJukebox": {
+    "obf": "craftrise.θ$Ư",
+    "internal": "craftrise/θ$Ư",
+    "desc": "Lcraftrise/θ$Ư;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityLargeChest": {
+    "obf": "craftrise.Ѽ",
+    "internal": "craftrise/Ѽ",
+    "desc": "Lcraftrise/Ѽ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityMobSpawner": {
+    "obf": "craftrise.Б",
+    "internal": "craftrise/Б",
+    "desc": "Lcraftrise/Б;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityNote": {
+    "obf": "craftrise.Ӣ",
+    "internal": "craftrise/Ӣ",
+    "desc": "Lcraftrise/Ӣ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityPiston": {
+    "obf": "craftrise.ţ",
+    "internal": "craftrise/ţ",
+    "desc": "Lcraftrise/ţ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityRendererDispatcher": {
+    "obf": "craftrise.ɿ",
+    "internal": "craftrise/ɿ",
+    "desc": "Lcraftrise/ɿ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntitySign": {
+    "obf": "craftrise.m",
+    "internal": "craftrise/m",
+    "desc": "Lcraftrise/m;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntitySkull": {
+    "obf": "craftrise.Ŋ",
+    "internal": "craftrise/Ŋ",
+    "desc": "Lcraftrise/Ŋ;",
+    "fields": {},
+    "methods": {}
+  },
+  "TileEntityType": {
+    "obf": "craftrise.ʍƳ",
+    "internal": "craftrise/ʍƳ",
+    "desc": "Lcraftrise/ʍƳ;",
+    "fields": {},
+    "methods": {}
+  },
+  "Timer": {
+    "obf": "crsecond.ˠ",
+    "internal": "crsecond/ˠ",
+    "desc": "Lcrsecond/ˠ;",
+    "fields": {
+      "timerSpeed": {
+        "obf": "ƹ",
+        "desc": "Lcrsecond/È;",
+        "offset": 104,
+        "static": true
+      }
+    },
+    "methods": {}
+  },
+  "TimerContainer": {
+    "obf": "crsecond.È",
+    "internal": "crsecond/È",
+    "desc": "Lcrsecond/È;",
+    "fields": {
+      "valA": {
+        "obf": "ȹ",
+        "desc": "J",
+        "offset": 32,
+        "static": false
+      },
+      "valB": {
+        "obf": "à",
+        "desc": "J",
+        "offset": 16,
+        "static": false
+      },
+      "xorKey": {
+        "obf": "Ȕ",
+        "desc": "J",
+        "offset": 24,
+        "static": false
+      },
+      "xorStatic": {
+        "obf": "Թ",
+        "desc": "J",
+        "offset": 104,
+        "static": true
+      }
+    },
+    "methods": {
+      "getValue": {
+        "obf": "ƞ",
+        "desc": "()D",
+        "static": false
+      },
+      "setValue": {
+        "obf": "Ϡ",
+        "desc": "(D)V",
+        "static": false
+      }
+    }
+  },
+  "Vec3": {
+    "obf": "craftrise.ʍō",
+    "internal": "craftrise/ʍō",
+    "desc": "Lcraftrise/ʍō;",
+    "fields": {},
+    "methods": {}
+  },
+  "Vec3i": {
+    "obf": "craftrise.Ϲ",
+    "internal": "craftrise/Ϲ",
+    "desc": "Lcraftrise/Ϲ;",
+    "fields": {},
+    "methods": {}
+  },
+  "WeightedRandom_Item": {
+    "obf": "craftrise.цΥ$ʉ",
+    "internal": "craftrise/цΥ$ʉ",
+    "desc": "Lcraftrise/цΥ$ʉ;",
+    "fields": {},
+    "methods": {}
+  },
+  "World": {
+    "obf": "craftrise.цʝ",
+    "internal": "craftrise/цʝ",
+    "desc": "Lcraftrise/цʝ;",
+    "fields": {
+      "loadedEntityList": {
+        "obf": "Å",
+        "desc": "Ljava/util/List;",
+        "offset": 120,
+        "static": false
+      },
+      "playerEntities": {
+        "obf": "һ",
+        "desc": "Ljava/util/List;",
+        "offset": 132,
+        "static": false
+      }
+    },
+    "methods": {
+      "getBlockState": {
+        "obf": "Ϩ",
+        "desc": "(Lcrsecond/ս;)Lcraftrise/Β;",
+        "static": false
+      }
+    }
+  },
+  "WorldClient": {
+    "obf": "craftrise.цĘ",
+    "internal": "craftrise/цĘ",
+    "desc": "Lcraftrise/цĘ;",
+    "fields": {},
+    "methods": {}
+  },
+  "WorldGenAbstractTree": {
+    "obf": "craftrise.Ќ",
+    "internal": "craftrise/Ќ",
+    "desc": "Lcraftrise/Ќ;",
+    "fields": {},
+    "methods": {}
+  },
+  "WorldGenBigTree": {
+    "obf": "craftrise.վ",
+    "internal": "craftrise/վ",
+    "desc": "Lcraftrise/վ;",
+    "fields": {},
+    "methods": {}
+  },
+  "WorldGenSwamp": {
+    "obf": "craftrise.Ǖ",
+    "internal": "craftrise/Ǖ",
+    "desc": "Lcraftrise/Ǖ;",
+    "fields": {},
+    "methods": {}
+  },
+  "WorldGenTrees": {
+    "obf": "craftrise.Ȅ",
+    "internal": "craftrise/Ȅ",
+    "desc": "Lcraftrise/Ȅ;",
+    "fields": {},
+    "methods": {}
+  },
+  "WorldInfo": {
+    "obf": "craftrise.ʍѦ",
+    "internal": "craftrise/ʍѦ",
+    "desc": "Lcraftrise/ʍѦ;",
+    "fields": {},
+    "methods": {}
+  },
+  "WorldProvider": {
+    "obf": "craftrise.ʍŪ",
+    "internal": "craftrise/ʍŪ",
+    "desc": "Lcraftrise/ʍŪ;",
+    "fields": {},
+    "methods": {}
+  },
+  "WorldSettings": {
+    "obf": "craftrise.Ü",
+    "internal": "craftrise/Ü",
+    "desc": "Lcraftrise/Ü;",
+    "fields": {},
+    "methods": {}
+  },
+  "WorldSettings$GameType": {
+    "obf": "craftrise.Ü$ɉ",
+    "internal": "craftrise/Ü$ɉ",
+    "desc": "Lcraftrise/Ü$ɉ;",
+    "fields": {},
+    "methods": {}
+  },
+  "WorldType": {
+    "obf": "craftrise.W",
+    "internal": "craftrise/W",
+    "desc": "Lcraftrise/W;",
+    "fields": {},
+    "methods": {}
+  }
+}
